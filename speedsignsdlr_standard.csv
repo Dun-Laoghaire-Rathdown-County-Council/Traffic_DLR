@@ -1,0 +1,744 @@
+﻿X,Y,Limit_A,Limit_B,Status,Repeater,NonTSMComp,Size,STATUS_ID,MaxSpeed_1,MaxSpeed_2,LastUpdate,Mounting,Descriptio,Maintenanc,Maintena_1,_full_text,X_ITM,Y_ITM
+-6.128617657,53.24115523,80 Km/h,50 Km/h,Standard,0,0,600mm,8,80,50,20151116,Bracket Mounted,,,,,724909.4769,722832.0397
+-6.136430527,53.29222732,50 Km/h,,Standard,0,0,600mm,8,50,0,20151222,,"Maintenance - Pole knocked, kerb offset 250mm.",Damaged Pole,High,,724239.8782,728500.4206
+-6.14118286,53.24988743,80 Km/h,50 Km/h,Standard,0,0,600mm,8,80,50,20151116,, Maintenance - sleeves faded.,,Low,,724045.6076,723781.6561
+-6.135012548,53.26603353,50 Km/h,,Standard,0,0,600mm,8,50,0,20160108,Bracket Mounted,"Maintenance - Sign has minor damage, kerb offset 350mm.",Damaged Sign,Low,,724410.4625,725588.7042
+-6.262954047,53.27442716,50 Km/h,,Standard,1,1,600mm,8,50,0,20160111,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Sign has minor damage, kerb offset 400mm.",Damaged Sign,Low,,715853.7529,726307.4959
+-6.219301506,53.31032562,50 Km/h,,Standard,0,1,300mm,8,50,0,20151201,Bracket Mounted,"Non TSM - Sign too small. Maintenance -Sleeves faded, kerb offset not 450mm.",Inappropriate,High,,718665.3881,730373.0823
+-6.178839133,53.25353543,120 Km/h,,Standard,0,0,,8,120,0,20160129,Bracket Mounted,,,,,721522.5702,724122.8374
+-6.181675012,53.28108034,50 Km/h,,Standard,1,0,300mm,8,50,0,20151210,,"Maintenance - Sign rotated and barely visible, fit sleeves.",Obscured,High,,721255.3859,727182.5387
+-6.198667181,53.27635216,50 Km/h,,Standard,1,0,300mm,8,50,0,20151217,,Maintenance - Sleeves faded.,,Low,,720135.6268,726627.8042
+-6.150400846,53.24135294,120 Km/h,,Standard,0,0,900mm,8,120,0,20160201,Bracket Mounted,Photograph - Sign with graffiti damage has been replaced.,,,,723455.0854,722816.2013
+-6.115145802,53.26985764,50 Km/h,,Standard,1,0,300mm,8,50,0,20151120,Bracket Mounted,"Maintenance - Kerb offset 150mm, sleeves slightly faded.",,Low,,725724.3867,726048.917
+-6.267271533,53.30617552,50 Km/h,,Standard,1,1,600mm,8,50,0,20151216,Bracket Mounted,Non TSM - County boundary sign. Maintenance - Pole at an angle.,Damaged Pole,High,,715480.1575,729832.7396
+-6.209763602,53.30480812,60 Km/h,,Standard,0,0,600mm,8,60,0,20151201,Bracket Mounted,Maintenance - Sleeves faded.,,Low,,719316.318,729775.1105
+-6.215892548,53.21121147,50 Km/h,,Standard,0,1,600mm,8,50,0,20160115,,Non TSM - County boundary sign. Maintenance - Sign edge 100mm over road.,,Low,,719167.7902,719351.7236
+-6.2977547,53.24288057,50 Km/h,,Standard,1,1,600mm,8,50,0,20160114,,"Non TSM - County boundary sign. Maintenance - Not at county boundary, sign very dirty, road offset 400mm.",Inappropriate,High,,713616.4747,722741.8641
+-6.111025492,53.28507912,50 Km/h,,Standard,1,0,300mm,8,50,0,20151119,Bracket Mounted,"Maintenance - Sign face damaged, fit sleeves, kerb offset 180mm.",Damaged Sign,Low,,725954.4259,727749.6275
+-6.157327603,53.26554285,80 Km/h,60 Km/h,Standard,1,0,600mm,8,80,60,20151117,Bracket Mounted,"Traffic Lanes Speed Limit 80kmh, Bus Lane Speed Limit 60kmh (South Bound).",,,,722923.4134,725495.5041
+-6.125503052,53.2248447,50 Km/h,,Standard,1,1,600mm,8,50,0,20151126,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Kerb offset 100mm, sleeves slightly faded.",,Low,,725164.9214,721022.8778
+-6.137677909,53.29613792,30 Km/h,,Standard,1,1,450mm,8,30,0,20160202,Bracket Mounted,Non TSM - Sign too big. Mounting - Mounted on pole above Speed Alert Sign.,,,,724145.385,728933.3261
+-6.216346279,53.27085698,100 Km/h,,Standard,0,0,,8,100,0,20160201,Bracket Mounted,,,,,718971.9295,725986.8591
+-6.286970244,53.26732918,100 Km/h,,Standard,1,0,,8,100,0,20160201,Bracket Mounted,,,,,714271.0377,725479.133
+-6.220786627,53.25677314,50 Km/h,,Standard,1,0,300mm,8,50,0,20151209,Bracket Mounted,"Maintenance - Kerb offset of speed sign 350mm, height 1.9m, minor damage to sign face.",Damaged Sign,Low,,718714.7865,724412.5657
+-6.135845946,53.20379231,50 Km/h,50 Km/h,Standard,1,1,,8,50,50,20151125,Bracket Mounted,"Non TSM - Sign too big. Maintenance - One sign has minor damage, sleeves faded, kerb offset 200mm.",Damaged Sign,Low,,724535.4207,718662.6699
+-6.116823716,53.23941833,30 Km/h,,Standard,0,0,600mm,8,30,0,20151124,Bracket Mounted,"Not in Bye laws. Maintenance - Missing 50kmh sign, mounted on stop sign, face damaged, height 1.44m.",Missing,High,,725701.6992,722659.4724
+-6.162474864,53.27537843,50 Km/h,,Standard,1,0,300mm,8,50,0,20151204,Bracket Mounted,"Maintenance - Height 2m beside cycle track, pole at an angle, sleeves faded.",Damaged Pole,Low,,722551.9404,726580.9229
+-6.247147956,53.31031926,50 Km/h,,Standard,1,1,600mm,8,50,0,20151209,Bracket Mounted,Non TSM - County boundary sign. Maintenance - Minor damage to sign.,Damaged Sign,Low,,716809.8902,730326.4793
+-6.194227542,53.29945185,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20151201,Bracket Mounted,"Non TSM - Signs too big. Maintenance - Sign obscured, fit sleeves.",Obscured,High,,720366.7374,729205.2531
+-6.21287236,53.27029015,60 Km/h,,Standard,0,0,,8,60,0,20160201,Bracket Mounted,No 60kmh Speed limit in Bye Laws at this location.,Inappropriate,High,,719205.2,725929.5836
+-6.246875077,53.26907913,100 Km/h,,Standard,0,0,600mm,8,100,0,20160201,,Wrong location - Should be further back towards roundabout. Maintenance - Cut back vegetation.,Inappropriate,High,,716940.6548,725738.6784
+-6.135155223,53.2451539,80 Km/h,50 Km/h,Standard,0,0,600mm,8,80,50,20151116,Bracket Mounted,"Maintenance - height 1.9m, kerb offset 200mm, both faces damaged, sleeves faded, rotate 50kmh face, 900mm  between wall and pole.",Damaged Sign,Low,,724461.5517,723265.5073
+-6.13483261,53.2757608,60 Km/h,,Standard,1,0,600mm,8,60,0,20151222,,Mounting - Mounted on Lp.,,,,724394.2193,726671.221
+-6.19690117,53.24081802,50 Km/h,50 Km/h,Standard,1,0,450mm,8,50,50,20151124,Cap Mounted,Maintenance - Sign slightly rotated.,,Low,,720353.1259,722677.4068
+-6.193958728,53.28612027,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151119,Bracket Mounted,"Maintenance - Kerb offset 100mm, sleeves faded.",,Low,,720422.1483,727722.4878
+-6.148164571,53.2610774,80 Km/h,60 Km/h,Standard,1,0,600mm,8,80,60,20151116,Bracket Mounted,"Traffic Lanes Speed Limit 80kmh, Bus Lane Speed Limit 60kmh (South Bound). Maintenance - minor damage to face.",Damaged Sign,Low,,723547.4851,725014.5002
+-6.196484296,53.28903374,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151119,Bracket Mounted,"Maintenance - Pole at slight angle, kerb offset 300mm, sleeves faded, 60kmh face rotated.",Damaged Pole,Low,,720245.5839,728042.3756
+-6.229537294,53.27197289,100 Km/h,,Standard,1,0,,8,100,0,20160201,Bracket Mounted,,,,,718089.0765,726089.1342
+-6.234829173,53.26539214,50 Km/h,,Standard,1,0,300mm,8,50,0,20160111,,Mounting - Mounted on Tp. Maintenance - Obscured.,Obscured,High,,717754.2256,725348.254
+-6.215750166,53.28106863,50 Km/h,50 Km/h,Standard,1,1,750mm,8,50,50,20160113,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Fit sleeves, minor damage both faces, one face obscured.",Damaged Sign,High,,718983.3205,727123.9599
+-6.220915587,53.27245888,50 Km/h,,Standard,0,0,600mm,8,50,0,20160115,Bracket Mounted,Maintenance - Fit sleeves,,Low,,718662.7421,726157.4833
+-6.229011288,53.2697036,50 Km/h,,Standard,1,0,300mm,8,50,0,20151209,Bracket Mounted,,,,,718130.4143,725837.5303
+-6.181845618,53.22142404,80 Km/h,,Standard,1,0,600mm,8,80,0,20151125,Bracket Mounted,Maintenance - Obscured by vegetation,Obscured,High,,721412.8237,720545.1834
+-6.210664537,53.25086337,50 Km/h,,Standard,1,0,300mm,8,50,0,20151124,Bracket Mounted,Maintenance - Sleeves dirty.,,Low,,719406.5611,723771.9283
+-6.209459907,53.22374496,50 Km/h,,Standard,1,0,300mm,8,50,0,20160107,Bracket Mounted,Maintenence - Road offset 450mm.,,Low,,719562.5005,720756.8735
+-6.180959583,53.30224778,50 Km/h,,Standard,1,1,600mm,8,50,0,20151201,Bracket Mounted,"Non TSM - Signs too big. Maintenance -Kerb offset 190mm, sign damaged, at angle & rotated, sleeves faded.",Damaged Sign,Low,,721243.1297,729538.7523
+-6.169812956,53.27192155,80 Km/h,,Standard,1,0,600mm,8,80,0,20160107,Bracket Mounted,Maintenance - Replace missing sleeves (Not start of 80kmh zone).,,Low,,722072.4309,726183.7678
+-6.198054683,53.25790873,50 Km/h,,Standard,1,0,300mm,8,50,0,20151217,,Mounting - Mounted on Lp.,,,,720228.2082,724576.8984
+-6.142943077,53.24436053,50 Km/h,,Standard,0,0,600mm,8,50,0,20151123,Bracket Mounted,"Maintenance - Kerb offset less than 450mm, pole at slight angle.",,Low,,723944.1274,723163.7115
+-6.159481743,53.26965463,50 Km/h,,Standard,1,0,300mm,8,50,0,20151204,Bracket Mounted,"Maintenance - Height 1.73m beside cycle track, sign face damaged.",Damaged Sign,Low,,722767.9452,725949.2576
+-6.19363099,53.27445681,50 Km/h,,Standard,1,1,600mm,8,50,0,20151203,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Kerb offset 300mm, pole at an angle, sleeves faded.",Damaged Pole,Low,,720476.8024,726425.4131
+-6.192904977,53.28247359,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151119,Bracket Mounted,"Maintenance - Pole angled, sleeves faded, kerb offset 100mm, 50kmh face has minor damage, both faces slightly rotated.",Damaged Pole,Low,,720502.664,727318.5496
+-6.224397623,53.28157074,50 Km/h,,Standard,1,1,750mm,8,50,0,20151210,Bracket Mounted,Non TSM - Sign too big. Maintenance - Sign face minor damage.,Damaged Sign,Low,,718405.3264,727165.4594
+-6.126594332,53.28591315,50 Km/h,,Standard,1,0,300mm,8,50,0,20151119,Bracket Mounted,"Maintenance - Minor damage to sign face, fit sleeves.",Damaged Sign,Low,,724913.9882,727815.0877
+-6.201672089,53.29274012,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151130,Bracket Mounted,"Maintenance - 50kmh sign slightly rotated, sleeves faded.",,Low,,719889.3519,728446.0157
+-6.21363506,53.30105413,50 Km/h,,Standard,1,1,600mm,8,50,0,20160106,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Kerb offset 250mm, sleeves faded.",,Low,,719068.7598,729350.9965
+-6.219341105,53.26749664,50 Km/h,,Standard,1,0,450mm,8,50,0,20160111,,Mounting - Mounted on Lp.,,,,718781.5042,725608.02
+-6.130294134,53.24239073,80 Km/h,,Standard,1,0,450mm,8,80,0,20151116,Bracket Mounted,Maintenance - sleeves faded,,Low,,724793.9931,722966.5664
+-6.253895684,53.27175211,50 Km/h,,Standard,1,0,300mm,8,50,0,20151016,,,,,,716465.1268,726024.6016
+-6.171180307,53.20489296,80 Km/h,50 Km/h,Standard,0,0,600mm,8,80,50,20160114,Cap Mounted,"Sign is in Wicklow Co. Co. area. Maintenance - 80kmh sign towards DLR is wrong, 50kmh sign has minor damage. Check if 50kmh into Wicklow Co Co is correct.",Inappropriate,High,,722171.9945,718724.1895
+-6.173001678,53.27375519,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151118,Bracket Mounted,"Maintenance - Both signs rotated, 50kmh face has minor damage, kerb offset 230mm, sleeves faded.",Damaged Sign,Low,,721854.5499,726382.3284
+-6.217866781,53.27197349,120 Km/h,,Standard,0,0,,8,120,0,20160201,Bracket Mounted,(Fly over),,,,718867.4218,726108.547
+-6.143634984,53.25370974,80 Km/h,50 Km/h,Standard,0,0,600mm,8,80,50,20151116,Bracket Mounted,Maintenance - 80kmh sign not visible.,Obscured,Low,,723870.941,724202.6531
+-6.226668202,53.26070758,50 Km/h,,Standard,1,0,300mm,8,50,0,20151209,,"Mounting - Mounted on Tp. Maintenance - Sign dirty & rotated, sign located far away from road edge.",Inappropriate,High,,718311.5246,724840.5435
+-6.25462588,53.30774151,50 Km/h,,Standard,1,1,600mm,8,50,0,20151216,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Height 1.95m, sign and sleeves dirty.",,Low,,716318.6138,730027.4838
+-6.255449988,53.27697132,50 Km/h,,Standard,1,0,600mm,8,50,0,20160113,,,,,,716347.2885,726602.7419
+-6.181175203,53.25401662,50 Km/h,,Standard,1,1,600mm,8,50,0,20151217,Bracket Mounted,Non TSM - Sign too big. Maintenance - Sleeves faded.,,Low,,721365.3414,724172.4032
+-6.194848581,53.28966533,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151130,Bracket Mounted,"Maintenance - 60kmh face damaged, both faces rotated, kerb offset 40mm, height 2.05m beside cycle track, sleeves faded.",Damaged Sign,Low,,720352.8561,728115.3971
+-6.147980629,53.23717706,50 Km/h,,Standard,1,0,300mm,8,50,0,20151127,Bracket Mounted,"Maintenance - Sign slightly rotated, fit sleeves.",,Low,,723628.6466,722355.7984
+-6.184214289,53.2549165,50 Km/h,,Standard,1,0,300mm,8,50,0,20151217,,Mounting - Mounted on Lp. Maintenance - Minor damage to sign face.,Damaged Sign,Low,,721160.0273,724267.3647
+-6.139365151,53.2487429,80 Km/h,60 Km/h,Standard,1,0,,8,80,60,20151210,,"Missing - Sign missing from H frame pole. Traffic Lanes Speed Limit 80kmh, Bus Lane Speed Limit 60kmh (North Bound).",Missing,High,,724170.2122,723657.4782
+-6.221144528,53.22984307,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20160107,,"Non TSM - Signs too big. Maintenance - Both signs have minor damage, sleeves faded.",Damaged Sign,Low,,718765.4587,721415.8495
+-6.220926866,53.27543448,50 Km/h,,Standard,1,1,600mm,8,50,0,20151210,Bracket Mounted,Non TSM - Sign too big. Maintenance - Sign slightly rotated.,,Low,,718653.7482,726488.5187
+-6.117212643,53.27768991,50 Km/h,,Standard,1,1,600mm,8,50,0,20151119,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Pole is at an angle, kerb offset 0mm, minor damage to sign face.",Damaged Sign,Low,,725563.5789,726916.6573
+-6.278343654,53.26687998,100 Km/h,,Standard,1,0,,8,100,0,20160201,Bracket Mounted,,,,,714847.6462,725442.9831
+-6.280228151,53.26748462,50 Km/h,,Standard,1,1,600mm,8,50,0,20160111,Bracket Mounted,Non TSM - County boundary sign. Maintenance - Sign has minor damage.,Damaged Sign,Low,,714720.3279,725507.2271
+-6.20447131,53.29752969,60 Km/h,,Standard,1,1,300mm,8,60,0,20151130,Bracket Mounted,Non TSM - Sign too small - Maintenance - Fit sleeves.,,Low,,719689.3609,728974.1918
+-6.262611231,53.27501945,50 Km/h,,Standard,1,0,300mm,8,50,0,20140515,,,,,,715875.0132,726373.9489
+-6.229636615,53.26531692,50 Km/h,,Standard,1,0,300mm,8,50,0,20151209,,Mounting - Mounted on Lp.,,,,718100.7963,725348.4517
+-6.16478295,53.20467529,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20160115,Bracket Mounted,"Non TSM - Sign too big for repeater, County boundary sign. Maintenance - County boundary sign facing wrong way, minor damage to county boundary sign.",Inappropriate,High,,722599.9421,718710.918
+-6.146689948,53.25952796,80 Km/h,,Standard,1,0,600mm,8,80,0,20151118,Bracket Mounted,"Maintenance - sleeves faded, centre sign on pole.",,Low,,723650.3266,724844.6674
+-6.16789406,53.27115213,80 Km/h,60 Km/h,Standard,1,0,600mm,8,80,60,20151118,,"Traffic Lanes Speed Limit 80kmh, Bus Lane Speed Limit 60kmh (North Bound).",,,,722202.6023,726101.4455
+-6.220004973,53.31025092,60 Km/h,,Standard,0,0,,8,60,0,20160114,,Missing - No sign at this change in speed limit.,Missing,High,,718618.7206,730363.6035
+-6.190991629,53.23434459,50 Km/h,,Standard,1,0,300mm,8,50,0,20151127,Bracket Mounted,"Maintenance - Edge of warning sign 250mm off road edge, sleeves faded.",,Low,,720765.7614,721967.1685
+-6.244652163,53.27068669,100 Km/h,,Standard,1,0,,8,100,0,20160201,Bracket Mounted,,,,,717084.5263,725921.1684
+-6.151012525,53.23790531,50 Km/h,,Standard,1,0,300mm,8,50,0,20160111,Bracket Mounted,Maintenance - Height 1.8m,,Low,,723424.1817,722431.5818
+-6.131121996,53.23517758,50 Km/h,30 Km/h,Standard,0,0,600mm,8,50,30,20151117,Bracket Mounted,Maintenance - 50kmh face has minor damage.,Damaged Sign,Low,,724759.7206,722162.631
+-6.201143259,53.31153254,50 Km/h,,Standard,1,1,600mm,8,50,0,20151201,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Kerb offset 200mm, sign rotated & damaged, sleeves faded.",Damaged Sign,Low,,719871.9553,730537.6771
+-6.131005478,53.24357592,50 Km/h,,Standard,0,0,600mm,8,50,0,20151118,Bracket Mounted,,,,,724743.0718,723097.183
+-6.13167061,53.2297429,80 Km/h,,Standard,0,0,,8,80,0,20160201,Bracket Mounted,,,,,724738.9003,721557.0445
+-6.143683739,53.27042294,50 Km/h,,Standard,1,0,300mm,8,50,0,20160106,Bracket Mounted,"Maintenance - Height 1.9m, sleeves faded.",,Low,,723819.3935,726061.9887
+-6.209545277,53.30426812,60 Km/h,,Standard,1,0,600mm,8,60,0,20151201,Bracket Mounted,"Maintenance - Sleeves faded, pole at slight angle.",,Low,,719332.3735,729715.3966
+-6.185461091,53.30150239,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20151201,Bracket Mounted,"Non TSM - Signs too big. Maintenance - Kerb offset 200mm, both faces damaged, fit sleeves, both faces rotated.",Damaged Sign,Low,,720945.2292,729448.1939
+-6.18288526,53.24759343,50 Km/h,,Standard,1,0,300mm,8,50,0,20151207,,Mounting - Mounted on Lp.,,,,721269.4104,723454.8891
+-6.114189562,53.23980402,30 Km/h,,Standard,0,0,600mm,8,30,0,20151125,Bracket Mounted,"Not in Bye laws. Maintenance - Missing 50kmh on back, on wrong side of road, fit sleeves, kerb offset 350mm, height 1.64m, rotated 90 degrees.",Inappropriate,High,,725876.3787,722707.0162
+-6.108168964,53.27817079,50 Km/h,,Standard,1,0,300mm,8,50,0,20151120,Bracket Mounted,"Maintenance - Sign damaged & rotated, kerb offset 110mm.",Damaged Sign,Low,,726165.2255,726986.0859
+-6.264333333,53.26831245,100 Km/h,,Standard,1,0,,8,100,0,20160201,Bracket Mounted,,,,,715778.2905,725624.9579
+-6.215328791,53.30824426,60 Km/h,,Standard,0,0,600mm,8,60,0,20151201,Bracket Mounted,"Maintenance - Kerb offset not 450mm, sleeves faded.",,Low,,718935.8902,730148.124
+-6.196140855,53.23957119,50 Km/h,,Standard,1,1,600mm,8,50,0,20151215,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Sign rotated and not visible, pole knocked, kerb offset 100mm, sleeves damaged.",Damaged Pole,High,,720407.3706,722539.9707
+-6.172418992,53.27297927,60 Km/h,,Standard,0,0,600mm,8,60,0,20151118,Bracket Mounted,,,,,721895.617,726296.9971
+-6.117937361,53.21141574,50 Km/h,,Standard,1,1,600mm,8,50,0,20151202,Bracket Mounted,Non TSM - County boundary sign. Maintenance - Sign damaged.,Damaged Sign,High,,725709.3705,719542.1295
+-6.13538759,53.29195064,50 Km/h,,Standard,0,0,600mm,8,50,0,20160104,,"Maintenance - Fit sleeves, should have 30 kmh on back, kerb offset 220mm.",,Low,,724310.2047,728471.4532
+-6.135266552,53.27806038,60 Km/h,,Standard,1,0,600mm,8,60,0,20160108,,Mounting - Mounted on Lp.,,,,724358.6049,726926.3046
+-6.159047585,53.26578693,80 Km/h,,Standard,0,0,600mm,8,80,0,20151118,Bracket Mounted,"Maintenance - sign is rotated and not visible, kerb offset 400mm, sleeves are faded, fit 50kmh sign to back of 80kmh sign.",Obscured,High,,722807.9863,725519.7023
+-6.243633378,53.22474578,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20160108,Bracket Mounted,"Non TSM - Signs too big. Maintenance - Both signs rotated, road offset 300mm.",,Low,,717278.0517,720811.6328
+-6.224754758,53.30014068,30 Km/h,,Standard,1,1,300mm,8,30,0,20160106,Bracket Mounted,Wrong sign.,Inappropriate,High,,718330.1783,729230.8939
+-6.257309692,53.26703693,100 Km/h,,Standard,1,0,,8,100,0,20160201,Bracket Mounted,,,,,716250.2244,725494.4485
+-6.219595902,53.24527293,50 Km/h,,Standard,1,0,300mm,8,50,0,20160225,Bracket Mounted,Maintenance - Pole knocked. DLRCC Road Maintenance informed 25.02.2016,Damaged Pole,High,,718826.0951,723135.0788
+-6.152516369,53.24180557,60 Km/h,,Standard,0,0,900mm,8,60,0,20160201,Bracket Mounted,Maintenance - Sign rotated and not visible.,Obscured,High,,723312.5932,722862.9074
+-6.132650968,53.26698472,50 Km/h,,Standard,1,1,300mm,8,50,0,20151125,Bracket Mounted,Non TSM - Village traffic calming sign. Maintenance - Minor damage to sign.,Damaged Sign,Low,,724565.219,725698.6417
+-6.243994982,53.27053914,100 Km/h,,Standard,1,0,,8,100,0,20160201,Bracket Mounted,,,,,717128.7608,725905.8298
+-6.137532467,53.29238223,30 Km/h,,Standard,0,0,600mm,8,30,0,20151222,,"Maintenance - Pole at an angle, kerb offset 60mm.",Damaged Pole,Low,,724165.9724,728515.7396
+-6.138166764,53.23358683,50 Km/h,,Standard,1,0,300mm,8,50,0,20151126,Bracket Mounted,"Maintenance - Sign face is damaged, sleeves faded.",Damaged Sign,Low,,724294.0922,721973.384
+-6.128036166,53.23897085,50 Km/h,,Standard,1,0,300mm,8,50,0,20151217,,Mounting - Mounted on Ep. Maintenance - Sign face has minor damage.,Damaged Sign,Low,,724954.6492,722590.0348
+-6.134631843,53.26607979,60 Km/h,,Standard,0,0,,8,60,0,20160108,Bracket Mounted,"Maintenance - Sign damaged and slightly rotated, sleeves faded, kerb offset 300mm.",Damaged Sign,High,,724435.7218,725594.5134
+-6.29246718,53.26236622,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20160111,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Road offset 100mm, one face has minor damage.",Damaged Sign,Low,,713917.5762,724918.194
+-6.178149811,53.25429763,50 Km/h,,Standard,0,0,,8,50,0,20160201,Bracket Mounted,,,,,721566.4017,724208.808
+-6.202410699,53.27213367,60 Km/h,,Standard,0,0,600mm,8,60,0,20160205,Bracket Mounted,,,,,719897.791,726152.1857
+-6.217998231,53.27186922,120 Km/h,,Standard,0,0,,8,120,0,20160201,Bracket Mounted,(Fly over),,,,718858.9442,726096.7284
+-6.209689836,53.30314993,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151201,Bracket Mounted,Maintenance - 60kmh face has minor damage and is slightly rotated.,Damaged Sign,Low,,719325.8575,729590.7497
+-6.185262234,53.30377478,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20151201,Bracket Mounted,Non TSM - Signs too big. Maintenance - Both signs rotated.,,Low,,720952.0599,729701.3474
+-6.247758106,53.31054842,50 Km/h,,Standard,1,1,600mm,8,50,0,20151209,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Fit sleeves, kerb offset 420mm.",,Low,,716768.608,730350.977
+-6.201018819,53.31194282,50 Km/h,,Standard,0,0,600mm,8,50,0,20151201,Bracket Mounted,"Possibly in Dublin City Council Area. Non TSM - Sign too big. Maintenance - Sign rotated 90 degrees and not visible, kerb offset 400mm, sleeves faded.",Obscured,High,,719879.0973,730583.5322
+-6.12487492,53.25226029,50 Km/h,,Standard,1,1,600mm,8,50,0,20151203,Bracket Mounted,Non TSM - Sign too big. Maintenance - Kerb offset 350mm.,,Low,,725126.8608,724074.068
+-6.194818422,53.28737732,50 Km/h,,Standard,0,1,450mm,8,50,0,20151119,Bracket Mounted,"Non TSM - Sign too small. Maintenance - Pole knocked, kerb offset 225mm.",Damaged Pole,High,,720361.2981,727860.8937
+-6.191901217,53.28121092,60 Km/h,,Standard,1,0,600mm,8,60,0,20151119,Bracket Mounted,"North bound. Maintenance - Fit sleeves, face is slightly rotated.",,Low,,720573.1462,727179.7636
+-6.216708091,53.3087681,60 Km/h,,Standard,1,0,600mm,8,60,0,20151201,Bracket Mounted,Maintenance - Fit sleeves,,Low,,718842.523,730204.1087
+-6.183262859,53.27783746,60 Km/h,,Standard,1,1,300mm,8,60,0,20151118,Bracket Mounted,Non TSM - sign too small. Maintenance fit sleeves.,,Low,,721158.6829,726819.0574
+-6.197733422,53.27895175,50 Km/h,,Standard,1,0,300mm,8,50,0,20151215,Bracket Mounted,Maintenance - Sleeves faded,,Low,,720190.6014,726918.5934
+-6.225697664,53.28624463,50 Km/h,,Standard,1,0,300mm,8,50,0,20151210,Bracket Mounted,,,,,718305.7291,727683.3059
+-6.14100251,53.29627501,50 Km/h,30 Km/h,Standard,0,1,600mm,8,50,30,20151201,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Kerb offset 70mm, 30kmh sign damaged and rotated.",Damaged Sign,Low,,723923.387,728942.8066
+-6.225748903,53.25240235,50 Km/h,,Standard,1,0,300mm,8,50,0,20160111,,"Mounting - Mounted on Tp. Maintenance - Sign face damaged, road offset 100mm.",Damaged Sign,High,,718395.7878,723918.0596
+-6.123651349,53.22308473,50 Km/h,,Standard,1,1,600mm,8,50,0,20151202,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Sign slightly obscured, minor damage to sign face.",Damaged Sign,Low,,725293.6898,720830.3171
+-6.178402151,53.25498786,30 Km/h,,Standard,0,0,,8,30,0,20160105,Bracket Mounted,Not in Charge. Non TSM - Sign diameter 500mm. Wrong Sign - Should be 50kmh.,Inappropriate,High,,721547.6084,724285.1702
+-6.143258827,53.25220189,80 Km/h,50 Km/h,Standard,0,0,600mm,8,80,50,20151116,Bracket Mounted,Maintenance - kerb offset 350mm,,Low,,723900.3961,724035.5504
+-6.252608325,53.27165362,50 Km/h,,Standard,1,0,300mm,8,50,0,20160113,,Maintenance - Raise both signs.,,Low,,716551.254,726015.7419
+-6.209616697,53.30411685,60 Km/h,,Standard,1,1,300mm,8,60,0,20151201,Bracket Mounted,Non TSM - Sign too small. Maintenance -Fit sleeves.,,Low,,719328.0356,729698.4484
+-6.117657518,53.23962851,50 Km/h,30 Km/h,Standard,0,0,600mm,8,50,30,20151125,Bracket Mounted,"Not in Bye laws. Maintenance - Fit sleeves, minor damage to face of 50kmh.",Inappropriate,High,,725645.433,722681.3904
+-6.159216382,53.26868861,50 Km/h,,Standard,1,0,300mm,8,50,0,20151204,Bracket Mounted,"Maintenance - Sign slightly rotated, height 2m beside cycle track.",,Low,,722788.4121,725842.2387
+-6.192298865,53.27444731,50 Km/h,,Standard,1,1,600mm,8,50,0,20151203,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Sign likely to become obscured, sign and sleeves dirty.",,Low,,720565.6676,726426.6025
+-6.200559587,53.29736996,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20151201,Bracket Mounted,"Non TSM - Signs too big. Maintenance -One sign damaged, one sign dirty, both signs rotated with one not visible, pole at slight angle, fit sleeves.",Damaged Sign,High,,719950.5383,728962.9812
+-6.2008075,53.22879288,50 Km/h,,Standard,1,0,300mm,8,50,0,20151127,Bracket Mounted,Maintenance - Edge of warning sign 150mm off road edge.,,Low,,720126.0768,721332.9792
+-6.134428687,53.29386965,120 Km/h,,Standard,0,0,,8,120,0,20160311,,,,,,724368.5515,728686.6204
+-6.189578973,53.30058196,50 Km/h,,Standard,0,0,300mm,8,50,0,20151201,Bracket Mounted,Maintenance - Missing a sleeve.,,Low,,720673.3796,729338.8271
+-6.217138662,53.270713,50 Km/h,,Standard,0,0,,8,50,0,20160201,Bracket Mounted,,,,,718919.4811,725969.5212
+-6.250231702,53.2717745,50 Km/h,,Standard,1,0,300mm,8,50,0,20160113,,Maintenance - Cut back trees.,Obscured,High,,716709.4318,726033.0691
+-6.201221939,53.31160688,50 Km/h,,Standard,1,1,600mm,8,50,0,20151201,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Sign rotated and damaged, fit sleeves, pole at slight angle, height 1.87m.",Damaged Sign,High,,719866.5045,730545.8163
+-6.131743783,53.2317808,120 Km/h,,Standard,0,0,,8,120,0,20160201,Bracket Mounted,,Inappropriate,High,,724728.0912,721783.6409
+-6.134678418,53.20952048,50 Km/h,,Standard,1,1,600mm,8,50,0,20151126,Bracket Mounted,Non TSM - Sign too big. Maintenance - Sign located close to bend.,Obscured,Low,,724596.7897,719301.9824
+-6.218369669,53.2819023,50 Km/h,,Standard,1,0,300mm,8,50,0,20160113,Bracket Mounted,Maintenance - Fit sleeves.,,Low,,718806.3415,727212.3519
+-6.126478436,53.23551709,50 Km/h,30 Km/h,Standard,0,0,600mm,8,50,30,20151117,Bracket Mounted,Maintenance - minor damage to both faces.,Damaged Sign,Low,,725068.6873,722208.514
+-6.172364445,53.27317085,80 Km/h,60 Km/h,Standard,0,0,600mm,8,80,60,20151118,Bracket Mounted,"Traffic Lanes Speed Limit 80kmh, Bus Lane Speed Limit 60kmh (South Bound).",,,,721898.7097,726318.4049
+-6.215772441,53.2714208,120 Km/h,,Standard,0,0,,8,120,0,20160201,Bracket Mounted,,,,,719008.6356,726050.5422
+-6.188720413,53.23245597,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20151125,Bracket Mounted,"Non TSM - Signs too big. Maintenance -Signs rotated and one face not visible, one face damaged, sleeves faded.",Damaged Sign,High,,720922.6918,721760.889
+-6.171556962,53.27198705,80 Km/h,50 Km/h,Standard,0,0,600mm,8,80,50,20151118,Bracket Mounted,Maintenance - sleeves faded,,Low,,721955.9314,726188.0781
+-6.186704962,53.30115302,50 Km/h,,Standard,1,1,600mm,8,50,0,20151201,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Fit sleeves, sign on wrong side of road, missing 50kmh sign on back, minor damage to face.",Damaged Sign,Low,,720863.3155,729407.2187
+-6.203211962,53.29398193,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151130,Bracket Mounted,"Maintenance - Kerb offset 170mm, sleeves faded, both signs rotated.",,Low,,719783.228,728581.5922
+-6.161893155,53.27448286,50 Km/h,,Standard,1,0,300mm,8,50,0,20151204,Bracket Mounted,"Maintenance - Sign face has minor damage, sleeves faded, height 1.95m beside cycle track.",Damaged Sign,Low,,722593.2961,726482.283
+-6.180642225,53.28949204,50 Km/h,,Standard,1,0,300mm,8,50,0,20151204,,Mounting - Mounted on Lp.,,,,721300.4213,728120.1404
+-6.225121251,53.28374243,50 Km/h,,Standard,1,1,750mm,8,50,0,20151210,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Minor damage to sign face, sleeves faded.",Damaged Sign,Low,,718351.0744,727405.8747
+-6.186625714,53.2555099,50 Km/h,,Standard,1,0,300mm,8,50,0,20151217,,Mounting - Mounted on Lucas pole,,,,720997.4631,724329.2993
+-6.249757481,53.26735504,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20160111,Bracket Mounted,"Non TSM - Signs too big. Maintenance - Both signs obscured, one sign damaged, sleeves faded, height 1.8.",Damaged Sign,High,,716753.1012,725542.1503
+-6.244526268,53.27088336,50 Km/h,,Standard,0,0,750mm,8,50,0,20160201,,"Maintenance - Sleeves faded, damage to sign face.",Damaged Sign,Low,,717092.3855,725943.256
+-6.137518562,53.24800925,50 Km/h,,Standard,0,0,600mm,8,50,0,20151116,Bracket Mounted,Maintenance - kerb offset 330mm.,,Low,,724295.5594,723579.0656
+-6.141012144,53.26985832,50 Km/h,,Standard,1,0,300mm,8,50,0,20160106,Bracket Mounted,Maintenance - Minor damage to sign face and rotated.,Damaged Sign,Low,,723999.2097,726003.8036
+-6.150966363,53.26229539,80 Km/h,60 Km/h,Standard,1,0,600mm,8,80,60,20151118,Bracket Mounted,"Traffic Lanes Speed Limit 80kmh, Bus Lane Speed Limit 60kmh (North Bound).",,,,723357.0729,725145.1679
+-6.126193737,53.213729,120 Km/h,,Standard,0,0,,8,120,0,20160201,Bracket Mounted,,,,,725151.2117,719785.0078
+-6.209824782,53.26667823,50 Km/h,,Standard,1,1,600mm,8,50,0,20151217,,"Non TSM - Sign too big. Maintenance - Fit sleeves, kerb offset 400mm, on same pole as Stop sign.",,Low,,719418.5269,725532.8237
+-6.135830032,53.29255694,50 Km/h,30 Km/h,Standard,0,0,600mm,8,50,30,20160104,,"Maintenance - Sign rotated, 50kmh face damaged, kerb offset 230mm.",Damaged Sign,Low,,724278.9509,728538.1365
+-6.134558566,53.26930927,60 Km/h,,Standard,1,0,600mm,8,60,0,20160108,,Mounting - Mounted on Lp. Maintenance - Sign obscured by trees.,Obscured,High,,724431.231,725953.9358
+-6.140624715,53.29386831,50 Km/h,30 Km/h,Standard,0,1,600mm,8,50,30,20160104,,"Maintenance - Kerb offset 100mm, 30kmh sign 1.84m high, visibility slightly obscured by tree, fit sleeves, 30kmh sign damaged.",Damaged Sign,High,,723955.5378,728675.7043
+-6.174236758,53.28908332,50 Km/h,,Standard,1,1,750mm,8,50,0,20151203,Bracket Mounted,Non TSM - Sign too big.,,,,721728.6082,728085.5611
+-6.200310267,53.2927202,60 Km/h,,Standard,1,1,300mm,8,60,0,20151130,Bracket Mounted,"Non TSM - Sign too small. Maintenance - Fit sleeves, minor damage to sign.",Damaged Sign,Low,,719980.188,728446.085
+-6.199817649,53.29783976,50 Km/h,,Standard,1,0,300mm,8,50,0,20151201,Bracket Mounted,Maintenance - Warning sign rotated and edge of warning sign 200mm off road edge.,,Low,,719998.6741,729016.4952
+-6.126697068,53.27718992,50 Km/h,,Standard,1,0,300mm,8,50,0,20151119,Bracket Mounted,"Maintenance - Pole at slight angle, sleeves faded, kerb offset 150mm.",Damaged Pole,Low,,724932.5827,726844.4092
+-6.12375087,53.28583238,50 Km/h,,Standard,1,0,300mm,8,50,0,20151119,Bracket Mounted,"Maintenance - Minor damage to face, fit sleeves, height 1.8m.",Damaged Sign,Low,,725103.7998,727811.0769
+-6.188826422,53.2437661,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20151207,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Sign has minor damage, sleeves faded, pole knocked, sign edge not 450mm off road edge.",Damaged Sign,Low,,720883.7386,723019.0174
+-6.152539204,53.24167138,60 Km/h,,Standard,0,0,900mm,8,60,0,20160201,Bracket Mounted,,,,,723311.455,722847.9389
+-6.264311612,53.28333264,50 Km/h,,Standard,1,0,600mm,8,50,0,20160113,Bracket Mounted,Maintenance - Obscured.,Obscured,High,,715739.151,727296.0933
+-6.121984751,53.27576665,50 Km/h,,Standard,1,1,300mm,8,50,0,20151125,Bracket Mounted,Non TSM - Village traffic calming sign. Maintenance - Minor damage to sign.,Damaged Sign,Low,,725250.9817,726694.3127
+-6.157595904,53.28094658,50 Km/h,,Standard,1,1,450mm,8,50,0,20151218,Bracket Mounted,Non TSM - Text style.,,,,722861.3336,727208.7852
+-6.213436908,53.30719093,60 Km/h,,Standard,1,0,600mm,8,60,0,20151201,Bracket Mounted,"Maintenance - Height 2m beside cycle track, sleeves faded.",,High,,719064.8905,730034.085
+-6.176485719,53.27412841,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151118,Bracket Mounted,Maintenance - Sleeves faded and damaged.,,Low,,721621.139,726417.9163
+-6.250953976,53.26735922,100 Km/h,,Standard,1,0,,8,100,0,20160201,Bracket Mounted,,,,,716673.2825,725540.661
+-6.204719621,53.29947568,60 Km/h,,Standard,0,0,600mm,8,60,0,20151130,Bracket Mounted,"Maintenance - Missing 50kmh sign on back, 60kmh sign is damaged, kerb offset 200mm, sleeves faded.",Damaged Sign,High,,719667.3694,729190.2793
+-6.269793616,53.27931559,50 Km/h,,Standard,1,0,300mm,8,50,0,20160111,Bracket Mounted,Maintenance - Sleeves faded.,,Low,,715384.4533,726840.3032
+-6.183780696,53.30201407,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20151201,Bracket Mounted,"Non TSM - Signs too big. Maintenance - Signs off centre, kerb offset 300mm, sleeves faded.",,Low,,721055.7753,729507.9668
+-6.255620709,53.30211029,50 Km/h,,Standard,1,0,300mm,8,50,0,20151216,Bracket Mounted,"Maintenance - Pole at angle, sleeves very dirty, sign rotated.",Damaged Pole,High,,716267.6194,729399.3497
+-6.183035505,53.24766403,50 Km/h,,Standard,1,0,300mm,8,50,0,20151207,,Mounting - Mounted on Tp.,,,,721259.1847,723462.4884
+-6.138034713,53.23357515,50 Km/h,,Standard,1,0,300mm,8,50,0,20151126,Bracket Mounted,"Maintenance - Sign face has minor damage, sleeves are very dirty.",Damaged Sign,Low,,724302.9408,721972.314
+-6.158810928,53.26570697,50 Km/h,,Standard,0,0,600mm,8,50,0,20151118,Bracket Mounted,"Maintenance - sleeves faded, kerb offset 300mm, fit 80kmh sign to back of 50kmh sign.",Missing,Low,,722824.0011,725511.2131
+-6.261776314,53.28041977,50 Km/h,,Standard,1,0,600mm,8,50,0,20160113,,,,,,715916.0784,726976.1256
+-6.262411212,53.26889881,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20160111,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Both sign faces are damaged, sleeves faded, pole at an angle.",Damaged Sign,Low,,715904.9091,725693.31
+-6.29267648,53.26287152,50 Km/h,,Standard,1,1,600mm,8,50,0,20160111,Bracket Mounted,Non TSM - County boundary sign. Maintenance - Not located at boundary.,Inappropriate,High,,713902.2711,724974.0783
+-6.251243629,53.26774741,100 Km/h,,Standard,1,0,,8,100,0,20160201,Bracket Mounted,,,,,716652.9056,725583.3766
+-6.1248092,53.2144902,50 Km/h,,Standard,0,0,,8,50,0,20160201,Bracket Mounted,,,,,725241.4548,719872.1181
+-6.26713196,53.30591861,50 Km/h,,Standard,1,1,600mm,8,50,0,20151216,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Minor damage to sign face, height 1.95m, kerb offset 150mm, fit sleeves.",Damaged Sign,Low,,715490.1521,729804.3825
+-6.199636176,53.31043338,50 Km/h,,Standard,1,1,600mm,8,50,0,20151201,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Sign rotated, kerb offset 100mm.",,High,,719975.457,730417.9189
+-6.176017908,53.25258608,50 Km/h,,Standard,0,0,,8,50,0,20160201,Bracket Mounted,,,,,721713.5023,724022.0167
+-6.202571565,53.27242243,50 Km/h,,Standard,0,0,600mm,8,50,0,20160205,Bracket Mounted,,,,,719886.2543,726184.0424
+-6.19388907,53.28214887,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151119,Bracket Mounted,"Maintenance - 60kmh face rotated and obscured, sleeves faded.",Obscured,Low,,720437.961,727280.7639
+-6.243647815,53.287197,50 Km/h,,Standard,1,0,300mm,8,50,0,20160113,Bracket Mounted,"Maintenance - Sign face dirty, sleeves faded.",,Low,,717106.3638,727759.6959
+-6.221812507,53.29962131,50 Km/h,,Standard,1,0,300mm,8,50,0,20160106,Bracket Mounted,"Maintenance - Height 1.75m, fit sleeves, sign very dirty.",,Low,,718527.7164,729177.9881
+-6.243612213,53.22480721,50 Km/h,50 Km/h,Standard,1,0,600mm,8,50,50,20160108,Bracket Mounted,"Non TSM - Signs too big. Maintenance - One sign face damaged, sleeves faded, road offset 150mm.",Damaged Sign,Low,,717279.2969,720818.502
+-6.212025758,53.27077903,50 Km/h,,Standard,0,0,,8,50,0,20160201,Bracket Mounted,50kmh sign at start of 100kmh zone.,Inappropriate,High,,719260.3041,725985.3874
+-6.188940466,53.27606123,50 Km/h,,Standard,1,1,600mm,8,50,0,20151203,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Sign likely to become obscured if stop sign repaired, sign and pole dirty.",Obscured,High,,720785.0861,726611.8316
+-6.131757321,53.25127499,60 Km/h,50 Km/h,Standard,0,1,600mm,8,60,50,20160108,Bracket Mounted,"Non TSM - 50kmh sign too small. Maintenance - Both signs have minor damage, sleeves faded.",Inappropriate,High,,724670.5103,723952.4238
+-6.158267297,53.26665339,80 Km/h,50 Km/h,Standard,0,0,600mm,8,80,50,20151117,,Maintenance - sleeves are faded.,,Low,,722857.5492,725617.4418
+-6.16963778,53.296191,50 Km/h,,Standard,1,1,600mm,8,50,0,20151210,,"Non TSM - Sign too big. Maintenance - Kerb offset 150mm, sign rotated and barely visible, sign face has minor damage, sleeves faded.",Obscured,High,,722014.9457,728884.1756
+-6.209886844,53.27118047,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151203,Bracket Mounted,"Maintenance - No signs on LHS of both roads, sleeves faded.",,Low,,719401.8406,726033.6214
+-6.198898952,53.29825521,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20151201,,"Non TSM - Signs too big. Maintenance - Both signs dirty, one sign at angle, kerb offset 100mm, one sign slightly rotated.",,Low,,720058.7427,729064.2599
+-6.184249572,53.26735155,50 Km/h,,Standard,1,0,300mm,8,50,0,20160107,Bracket Mounted,,,,,721122.5269,725650.77
+-6.2411504,53.27090081,50 Km/h,,Standard,0,1,1200mm,8,50,0,20160113,,Non TSM - Sign too big. Maintenance - Fit sleeves & sign damaged.,Damaged Sign,Low,,717317.4924,725950.7338
+-6.117827483,53.23962967,50 Km/h,30 Km/h,Standard,0,0,600mm,8,50,30,20151125,Bracket Mounted,"Not in Bye laws. Maintenance - Both signs very dirty, fit sleeves, kerb offset 400mm, 50kmh sign dropped and slightly rotated.",Inappropriate,High,,725634.0857,722681.2206
+-6.128716535,53.29116297,50 Km/h,,Standard,1,0,300mm,8,50,0,20151121,Bracket Mounted,,Damaged Sign,High,,724757.2018,728395.4481
+-6.166832273,53.27020237,80 Km/h,50 Km/h,Standard,0,0,600mm,8,80,50,20151118,Bracket Mounted,"Maintenance - Sleeves faded, 80kmh face has minor damage.",Damaged Sign,Low,,722276.1278,725997.5959
+-6.160455293,53.27131022,50 Km/h,,Standard,1,0,300mm,8,50,0,20151204,,Mounting - Mounted on Lp.,,,,722698.2716,726131.779
+-6.215894125,53.21862872,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20160107,Bracket Mounted,"Non TSM - Sign too big, Maintenance - Sleeves faded, road offset 400mm.",,Low,,719147.0988,720176.927
+-6.17194047,53.25222269,120 Km/h,,Standard,0,0,,8,120,0,20160201,Bracket Mounted,,,,,721986.5956,723988.5383
+-6.215855621,53.27123466,100 Km/h,,Standard,0,0,,8,100,0,20160129,Bracket Mounted,,,,,719003.605,726029.6944
+-6.166206257,53.26664487,50 Km/h,,Standard,1,0,300mm,8,50,0,20151217,Bracket Mounted,Maintenance - Sleeves faded.,,Low,,722328.0362,725602.8769
+-6.139041102,53.24777834,80 Km/h,,Standard,0,0,600mm,8,80,0,20151116,,"Maintenance - sleeves dirty, kerb offset 150mm.",,Low,,724194.6293,723550.7292
+-6.223698673,53.25136953,50 Km/h,,Standard,1,0,300mm,8,50,0,20160111,,"Mounting - Mounted on Tp. Maintenance - Sign face has minor damage, road offset 450mm.",Damaged Sign,Low,,718535.4426,723806.5504
+-6.224735354,53.2722481,50 Km/h,,Standard,0,1,900mm,8,50,0,20160115,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Not located at change in speed limit as per byelaws, 50kmh sign in an 80kmh zone, fit sleeves.",Inappropriate,High,,718408.5741,726127.6981
+-6.245991022,53.27191762,50 Km/h,,Standard,1,0,300mm,8,50,0,20160113,,"Maintenance - Graffiti damage, raise both signs.",Damaged Sign,Low,,716991.869,726055.925
+-6.119309694,53.24881108,50 Km/h,,Standard,1,1,600mm,8,50,0,20151124,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Pole at slight angle, kerb offset 0mm.",,Low,,725508.2861,723700.0846
+-6.117763776,53.21144338,50 Km/h,,Standard,1,1,600mm,8,50,0,20151202,Bracket Mounted,Non TSM - County boundary sign.,,,,725720.8828,719545.509
+-6.254376524,53.30745943,50 Km/h,,Standard,1,1,600mm,8,50,0,20151216,Bracket Mounted,"Non TSM - County boundary sign. Maintenance - Sign located not to include Patrick Royle Road, sign slightly dirty.",Inappropriate,High,,716335.9974,729996.5069
+-6.139939008,53.29412921,50 Km/h,,Standard,0,1,600mm,8,50,0,20160104,,"Maintenance - Kerb offset 300mm, pole knocked, fit sleeves, sign face damaged, sign to be rotated.",Damaged Sign,High,,724000.4902,728705.9208
+-6.238735713,53.31350584,50 Km/h,,Standard,1,1,750mm,8,50,0,20151209,Bracket Mounted,"Non TSM - Sign to big. Maintenance - Kerb offset 250mm, height 1.9m, fit sleeves.",,Low,,717361.6889,730694.7973
+-6.172531073,53.27307077,80 Km/h,60 Km/h,Standard,0,0,,8,80,60,20151118,Bracket Mounted,"Traffic Lanes Speed Limit 80kmh, Bus Lane Speed Limit 60kmh (South Bound).",,,,721887.8819,726306.9862
+-6.218446286,53.28180278,50 Km/h,,Standard,1,0,300mm,8,50,0,20160113,Bracket Mounted,Maintenance - Fit sleeves,,Low,,718801.5089,727201.1531
+-6.241584998,53.27179257,80 Km/h,,Standard,0,0,750mm,8,80,0,20151116,,,,,,717286.0656,726049.2337
+-6.107739501,53.27792086,50 Km/h,,Standard,1,0,300mm,8,50,0,20151120,Bracket Mounted,"Maintenance - Minor damage to sign, kerb offset 250mm, height 1.96m.",Damaged Sign,Low,,726194.5996,726959.0386
+-6.203149005,53.29387556,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151130,Bracket Mounted,"Maintenance - Sleeves faded, 60kmh face obscured.",Obscured,High,,719787.7223,728569.8633
+-6.262309367,53.26969333,50 Km/h,,Standard,1,1,600mm,8,50,0,20160111,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Sign rotated and minor damage, obscured.",Damaged Sign,Low,,715909.5527,725781.8707
+-6.133034258,53.25107085,60 Km/h,,Standard,0,0,600mm,8,60,0,20160108,Bracket Mounted,"Maintenance - Sign face has minor damage and is rotated slightly, sleeves faded.",Damaged Sign,Low,,724585.9002,723927.4871
+-6.122374285,53.23668421,50 Km/h,30 Km/h,Standard,0,0,600mm,8,50,30,20151125,Bracket Mounted,"Not in Bye laws. Maintenance - 50kmh face has minor damage, fit sleeves.",Inappropriate,High,,725339.2259,722345.5478
+-6.137502263,53.26228371,50 Km/h,,Standard,1,0,300mm,8,50,0,20151222,,Mounting - Nailed to tree. Maintenance - Sign damaged.,Damaged Sign,Low,,724255.2659,725167.1895
+-6.206539428,53.27171298,60 Km/h,60 Km/h,Standard,1,1,300mm,8,60,60,20151203,Bracket Mounted,Non TSM - Signs too small.,,,,719623.6082,726098.4631
+-6.222828311,53.28259204,50 Km/h,50 Km/h,Standard,1,1,750mm,8,50,50,20151210,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Minor damage to one sign face and other sign obscured, fit sleeves.",Damaged Sign,High,,718507.1398,727281.6866
+-6.220918794,53.31135508,60 Km/h,,Standard,1,0,750mm,8,60,0,20151201,,Sign in Dublin City Council Area. Maintenance - Pole knocked.,Damaged Pole,High,,718554.7695,730484.9313
+-6.207875039,53.30230608,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151201,Bracket Mounted,"Maintenance - Height 2m, kerb offset 150mm, sleeves faded, 50kmh face damaged, both faces slightly rotated, pole at angle.",Damaged Sign,Low,,719449.1595,729499.8984
+-6.14556789,53.24348262,60 Km/h,,Standard,1,0,600mm,8,60,0,20151123,Bracket Mounted,Maintenance - Kerb offset less than 450mm.,,Low,,723771.4925,723061.4934
+-6.150004588,53.26141353,80 Km/h,50 Km/h,Standard,0,0,600mm,8,80,50,20151116,Bracket Mounted,"Maintenance - minor damage to both faces, rotate both faces, sleeves faded.",Damaged Sign,Low,,723423.7703,725048.7175
+-6.19242841,53.29957162,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20151201,Bracket Mounted,"Non TSM - Signs too big. Maintenance - Kerb offset 250mm, fit sleeves, minor damage one face.",Damaged Sign,Low,,720486.313,729221.6106
+-6.210771828,53.26135639,50 Km/h,,Standard,1,0,300mm,8,50,0,20160111,Bracket Mounted,"Maintenance - Sign rotated, sleeves faded.",,Low,,719370.1799,724939.1561
+-6.226689363,53.26282441,50 Km/h,,Standard,1,1,600mm,8,50,0,20151209,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Height 1.87m beside cycle track, fit sleeves, minor damage to sign face.",,Low,,718304.2698,725076.0189
+-6.249856725,53.26739524,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20160111,Bracket Mounted,"Non TSM - Signs too big. Maintenance Both signs have minor damage and rotated, sleeves faded, one face is dirty, road offset 200mm, height 1.6m.",Damaged Sign,Low,,716746.372,725546.4599
+-6.165095896,53.27004434,80 Km/h,60 Km/h,Standard,0,0,600mm,8,80,60,20151117,Bracket Mounted,Maintenance - sign rotated and not visible,Obscured,High,,722392.3879,725982.9867
+-6.161085143,53.27283666,50 Km/h,,Standard,1,0,300mm,8,50,0,20151204,Bracket Mounted,Maintenance - Sleeves faded.,,Low,,722651.8945,726300.5216
+-6.140016437,53.29415235,50 Km/h,,Standard,0,0,600mm,8,50,0,20160104,,"Maintenance - Pole at an angle, fit sleeves, sign facing wrong way, face slightly damaged.",Damaged Sign,High,,723995.2619,728708.3607
+-6.135712042,53.29251366,50 Km/h,30 Km/h,Standard,0,0,600mm,8,50,30,20160104,,"Maintenance - Minor damage to 30kmh face, kerb offset 380mm.",Damaged Sign,Low,,724286.9418,728533.527
+-6.184209466,53.30180949,50 Km/h,,Standard,1,1,600mm,8,50,0,20151201,Bracket Mounted,"Non TSM - Signs too big. Maintenance - Kerb offset 60mm, 650mm between pole and wall, fit sleeves, missing 50kmh sign on back.",Inappropriate,High,,721027.7779,729484.4795
+-6.138555011,53.23980316,50 Km/h,,Standard,1,0,300mm,8,50,0,20160111,,Maintenance - Sign face damaged.,Damaged Sign,Low,,724250.1695,722664.3018
+-6.127949529,53.23500977,50 Km/h,30 Km/h,Standard,0,0,600mm,8,50,30,20151117,Bracket Mounted,"Maintenance - 50kmh slightly rotated, kerb offset 200mm, pole at slight angle.",,Low,,724971.9709,722149.5009
+-6.179173747,53.29994106,50 Km/h,,Standard,1,1,600mm,8,50,0,20151204,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Kerb offset 300mm, sleeves faded.",,Low,,721368.6897,729285.148
+-6.236732173,53.31455856,50 Km/h,,Standard,1,1,600mm,8,50,0,20151216,Bracket Mounted,Non TSM - County boundary sign. Maintenance - Sign damaged and obscured.,Damaged Sign,High,,717492.2912,730815.2138
+-6.186486812,53.27885728,60 Km/h,,Standard,1,1,300mm,8,60,0,20151119,Bracket Mounted,Non TSM - Sign too small. Maintenance - Fit sleeves.,,Low,,720940.8176,726927.0576
+-6.267176808,53.27812919,50 Km/h,,Standard,1,0,300mm,8,50,0,20160111,Bracket Mounted,Maintenance - Sign face dirty.,,Low,,715562.1493,726712.5354
+-6.255489709,53.27821206,50 Km/h,,Standard,1,0,600mm,8,50,0,20160113,,Maintenance - Different size to sign on opposite side of road.,,Low,,716341.2698,726740.7175
+-6.191962897,53.23521511,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20151127,Bracket Mounted,"Non TSM - Sign too big. Maintenance - sleeves faded, sign obscured by lp, one face minor damage.",Obscured,High,,720698.4784,722062.3789
+-6.137208601,53.22443982,50 Km/h,,Standard,1,0,300mm,8,50,0,20151126,Bracket Mounted,Mounting - mounted on LP.,,,,724384.5637,720957.4099
+-6.1950479,53.25735993,50 Km/h,,Standard,1,0,300mm,8,50,0,20151217,,Mounting - Mounted on Lucas pole,,,,720430.3478,724520.9029
+-6.206695134,53.30261475,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151201,Bracket Mounted,"Maintenance - Kerb offset 100mm, sleeves faded.",,Low,,719526.9334,729536.2141
+-6.266973653,53.30600196,50 Km/h,,Standard,1,1,600mm,8,50,0,20151216,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Minor damage to sign face, height 1.8m, kerb offset 100mm, fit sleeves.",Damaged Sign,Low,,715500.4768,729813.9114
+-6.20474982,53.29959045,50 Km/h,,Standard,0,0,600mm,8,50,0,20151130,Bracket Mounted,Maintenance - Missing 60kmh sign on back.,Missing,High,,719665.0357,729202.998
+-6.135582934,53.27946233,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20160108,Bracket Mounted,"Maintenance - Height 1.9m, 60kmh face has minor damage.",Damaged Sign,Low,,724333.4379,727081.7285
+-6.126075711,53.21374826,120 Km/h,,Standard,0,0,,8,120,0,20160201,Bracket Mounted,,,,,725159.0377,719787.3574
+-6.196087226,53.23950378,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20151215,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Pole knocked, kerb offset 100mm, minor damage to one face.",Damaged Pole,High,,720411.1392,722532.5615
+-6.176224742,53.27408343,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151118,Bracket Mounted,"Maintenance - Sleeves faded, kerb offset 300mm.",,Low,,721638.6712,726413.3567
+-6.136363345,53.29237519,30 Km/h,,Standard,1,1,600mm,8,30,0,20151222,,Non TSM - Sign too big. Maintenance - Fit sleeves.,,,,724243.9274,728516.989
+-6.181704165,53.24841016,50 Km/h,,Standard,1,0,,8,50,0,20151207,,Missing - No sign on pole. Maintenance - Sleeves faded.,Missing,High,,721345.9148,723547.7588
+-6.178753334,53.25358831,120 Km/h,,Standard,0,0,,8,120,0,20160129,Bracket Mounted,,,,,721528.145,724128.8667
+-6.128568079,53.24079926,50 Km/h,,Standard,1,1,600mm,8,50,0,20151116,Bracket Mounted,"Non tsm - sign too big. Maintenance - kerb offset 250mm, sleeves faded, sign rotated.",Inappropriate,Low,,724913.8224,722792.5238
+-6.131957851,53.27872253,50 Km/h,,Standard,1,0,300mm,8,50,0,20151119,Bracket Mounted,"Maintenance - Fit sleeves, kerb offset 230mm, height 2.05m",,Low,,724577.3133,727005.7348
+-6.20353322,53.24752628,50 Km/h,50 Km/h,Standard,1,0,450mm,8,50,50,20151124,Cap Mounted,Maintenance - Sign slightly rotated.,,Low,,719891.7368,723412.5927
+-6.141299121,53.24997085,80 Km/h,50 Km/h,Standard,0,0,600mm,8,80,50,20151116,,"Maintenance - sleeves faded, kerb offset 150mm.",,Low,,724037.6086,723790.7352
+-6.123774256,53.25211202,50 Km/h,50 Km/h,Standard,1,0,300mm,8,50,50,20151203,Bracket Mounted,"Maintenance - Pole knocked, sleeves missing, one face very dirty, one face minor damage, kerb offset 250mm.",Damaged Pole,High,,725200.7335,724059.499
+-6.200801706,53.29336006,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151130,Bracket Mounted,"Maintenance - Kerb offset 170mm, height 1.90m, both signs damaged and rotated, pole at slight angle, sleeves faded.",Damaged Sign,Low,,719945.6355,728516.4479
+-6.245367841,53.27180275,50 Km/h,,Standard,1,0,300mm,8,50,0,20160113,,Maintenance - Cut trees back,Obscured,High,,717033.745,726044.1659
+-6.160046703,53.26706087,80 Km/h,60 Km/h,Standard,1,0,600mm,8,80,60,20151117,,"Traffic Lanes Speed Limit 80kmh, Bus Lane Speed Limit 60kmh (North Bound).",,,,722737.6938,725659.7181
+-6.280256283,53.29473541,50 Km/h,,Standard,1,1,600mm,8,50,0,20160114,Bracket Mounted,Non TSM - County boundary sign.,,,,714645.4846,728539.0302
+-6.17992322,53.27563862,60 Km/h,,Standard,1,0,600mm,8,60,0,20151118,Bracket Mounted,Maintenance - sleeves faded.,,Low,,721387.614,726580.0908
+-6.17620922,53.28695969,50 Km/h,,Standard,1,0,300mm,8,50,0,20151203,Bracket Mounted,"Maintenance - Kerb offset 350mm, sleeves faded, likely to become obscured.",,Low,,721603.1424,727845.937
+-6.135773587,53.29562148,30 Km/h,,Standard,0,0,450mm,8,30,0,20160202,,Mounting - Mounted on Lp.,,,,724273.8167,728879.1808
+-6.224647296,53.28151182,50 Km/h,,Standard,1,1,750mm,8,50,0,20151210,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Sign obscured at distance, sleeves faded.",Obscured,High,,718388.8414,727158.4903
+-6.119908976,53.23673512,30 Km/h,,Standard,0,0,600mm,8,30,0,20151125,Bracket Mounted,"Not in Bye laws. Maintenance - Sign on wrong side of road, fit sleeves, missing 50kmh sign on back, sign has minor damage, kerb offset 330mm, sign rotated 90 degrees and not visible.",Inappropriate,High,,725503.6298,722355.5355
+-6.221435922,53.22152582,50 Km/h,50 Km/h,Standard,1,0,300mm,8,50,50,20160107,Bracket Mounted,"Maintenance - Both signs dirty, warning sign damaged and over road.",,Low,,718769.021,720490.0267
+-6.220130658,53.22386462,50 Km/h,,Standard,1,0,300mm,8,50,0,20160107,Bracket Mounted,"Maintenance - Sleeves faded, road offset 350mm.",,Low,,718849.6996,720752.3987
+-6.278437513,53.26716552,100 Km/h,,Standard,1,0,,8,100,0,20160201,Bracket Mounted,,,,,714840.6204,725474.5997
+-6.218772567,53.25529627,50 Km/h,,Standard,1,1,600mm,8,50,0,20151209,Bracket Mounted,Non TSM - Sign too big. Maintenance - Height 1.55m.,,,,718853.2532,724251.6016
+-6.154917541,53.23641165,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20151127,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Minor damage to one face, both faces slightly rotated, sleeves faded, sign edge 300mm off road edge.",Damaged Sign,Low,,723167.827,722258.6717
+-6.127929869,53.25731409,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20160108,Bracket Mounted,"Maintenance - 50kmh face has minor damage, sign off centre on pole, kerb offset 400mm",Damaged Sign,Low,,724908.299,724630.9811
+-6.150813914,53.2624219,80 Km/h,60 Km/h,Standard,1,0,600mm,8,80,60,20151118,Bracket Mounted,"Traffic Lanes Speed Limit 80kmh, Bus Lane Speed Limit 60kmh (North Bound).",,,,723366.8782,725159.5063
+-6.247827845,53.3104442,50 Km/h,,Standard,1,1,600mm,8,50,0,20151209,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Sign damaged, fit sleeves.",Damaged Sign,Low,,716764.2455,730339.2683
+-6.212915261,53.27017467,60 Km/h,,Standard,0,0,,8,60,0,20160201,Bracket Mounted,No 60kmh Speed limit in Bye Laws at this location.,Inappropriate,High,,719202.6599,725916.665
+-6.135438557,53.28066179,50 Km/h,,Standard,1,1,600mm,8,50,0,20151222,,"Non TSM - Sign too big. Maintenance -Sign face damaged, sleeves missing, sign edge not 450mm from road edge.",Damaged Sign,Low,,724339.5829,727215.4244
+-6.163300738,53.27757627,50 Km/h,,Standard,1,0,300mm,8,50,0,20151204,Bracket Mounted,,,,,722490.58,726824.0279
+-6.212111552,53.27109335,50 Km/h,,Standard,0,0,,8,50,0,20160129,Bracket Mounted,,,,,719253.7072,726020.2138
+-6.211165904,53.26443868,50 Km/h,,Standard,1,1,600mm,8,50,0,20151217,,Mounting - Mounted on Lp. Non TSM - Sign too big.,,,,719335.3083,725281.4206
+-6.235276927,53.26549197,50 Km/h,,Standard,1,0,300mm,8,50,0,20160111,,Mounting - Mounted on Tp.,,,,717724.0845,725358.6232
+-6.24703769,53.29155288,50 Km/h,,Standard,1,0,300mm,8,50,0,20160113,Bracket Mounted,Maintenance - Sleeves faded.,,Low,,716868.4709,728238.7673
+-6.1407783,53.29649773,30 Km/h,,Standard,1,1,450mm,8,30,0,20160202,Bracket Mounted,Non TSM - Sign too big.,,,,723937.6868,728967.9739
+-6.170951296,53.25948041,50 Km/h,,Standard,1,0,300mm,8,50,0,20151217,Bracket Mounted,"Maintenance - Sign obscured by Lp, sign face has minor damage, sleeves faded.",Damaged Sign,High,,722031.9349,724797.6832
+-6.215664648,53.28088905,50 Km/h,,Standard,1,1,750mm,8,50,0,20160113,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Fit sleeves, sign face damage, obscured.",Damaged Sign,High,,718989.5217,727104.1221
+-6.16989943,53.2718135,80 Km/h,,Standard,1,1,750mm,8,80,0,20160107,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Sleeves faded, kerb offset less than 450mm (Not start of 80kmh zone).",,Low,,722066.9715,726171.599
+-6.200403358,53.29741919,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20151201,Bracket Mounted,"Non TSM - Signs too big. Maintenance - One sign dirty, fit sleeves.",,Low,,719960.8136,728968.7205
+-6.219110301,53.22071771,50 Km/h,,Standard,1,0,300mm,8,50,0,20160107,Bracket Mounted,maintenance - Sleeves faded,,Low,,718926.5463,720403.9847
+-6.137763654,53.24747384,50 Km/h,,Standard,0,0,600mm,8,50,0,20151116,Bracket Mounted,Maintenance - sign face has minor damage.,Damaged Sign,Low,,724280.7562,723519.072
+-6.114470215,53.26425188,50 Km/h,,Standard,1,1,300mm,8,50,0,20151125,Bracket Mounted,"Non TSM - Village traffic calming sign. Maintenance - Pole at an angle, minor damage to sign, kerb offset 400mm.",Damaged Sign,Low,,725785.8999,725426.4418
+-6.254687154,53.27200088,50 Km/h,,Standard,1,0,300mm,8,50,0,20160113,,Maintenance - Raise both signs,,Low,,716411.6645,726050.9893
+-6.194137419,53.2994823,50 Km/h,50 Km/h,Standard,1,1,,8,50,50,20151201,Bracket Mounted,"Non TSM - Signs too big. Maintenance - Fit sleeves, one sign at angle, one sign slightly obscured.",Obscured,High,,720372.6584,729208.7927
+-6.18797516,53.23135869,80 Km/h,50 Km/h,Standard,0,0,600mm,8,80,50,20151127,Bracket Mounted,Village gateway sign.,,,,720975.5347,721640.0714
+-6.210536009,53.25079817,50 Km/h,,Standard,1,1,600mm,8,50,0,20151124,,"Non TSM - Sign too big. Maintenance - Sign has minor damage, tree obscuring view, height 1.88m.",Damaged Sign,Low,,719415.3189,723764.8889
+-6.147459878,53.28274145,50 Km/h,,Standard,1,1,450mm,8,50,0,20151218,Bracket Mounted,Non TSM - Text style.,,,,723532.0138,727425.9479
+-6.215091734,53.30761726,50 Km/h,,Standard,0,0,600mm,8,50,0,20151201,Bracket Mounted,Maintenance - Sleeves faded.,,Low,,718953.4301,730078.7611
+-6.138496371,53.259722,50 Km/h,,Standard,1,0,300mm,8,50,0,20151222,,Maintenance - Sign and sleeves very dirty.,,Low,,724196.3742,724880.4599
+-6.172374044,53.27276055,60 Km/h,,Standard,0,1,300mm,8,60,0,20151118,Bracket Mounted,Non TSM - Sign too small. Wrong Sign - 60kmh sign in 80kmh zone.,Inappropriate,High,,721899.237,726272.7396
+-6.10672759,53.27810387,50 Km/h,,Standard,1,0,300mm,8,50,0,20151120,Bracket Mounted,"Maintenance - Sign rotated, kerb offset 170mm.",,Low,,726261.5374,726981.1858
+-6.135872528,53.27944637,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20160108,Bracket Mounted,Maintenance - Both faces have minor damage.,Damaged Sign,Low,,724314.1739,727079.4488
+-6.213538524,53.30108136,50 Km/h,,Standard,1,1,600mm,8,50,0,20160106,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Kerb offset 300mm, sleeves faded.",,Low,,719075.118,729354.1861
+-6.272014546,53.26839872,100 Km/h,,Standard,1,0,,8,100,0,20160201,Bracket Mounted,,,,,715265.7245,725622.1415
+-6.219542306,53.26737958,50 Km/h,,Standard,1,0,450mm,8,50,0,20160111,Bracket Mounted,Maintenance - Fit sleeves.,,Low,,718768.4085,725594.6615
+-6.206176818,53.30084086,60 Km/h,,Standard,1,1,300mm,8,60,0,20151201,Bracket Mounted,Non TSM - Sign too small. Maintenance - Fit sleeves.,,Low,,719566.4327,729339.7244
+-6.142711691,53.24419083,60 Km/h,,Standard,0,0,600mm,8,60,0,20151123,Bracket Mounted,,,,,723960.0596,723145.2334
+-6.131090798,53.23526409,50 Km/h,30 Km/h,Standard,0,0,600mm,8,50,30,20151117,Bracket Mounted,"Maintenance - 50kmh face has minor damage and has one broken bracket, 30kmh face is slightly rotated.",Damaged Sign,Low,,724761.5515,722172.3099
+-6.254615272,53.30754355,50 Km/h,,Standard,1,1,600mm,8,50,0,20151216,Bracket Mounted,"Non TSM - County boundary sign. Maintenance - Sign located not to include Patrick Royle Road, sign very dirty.",Inappropriate,High,,716319.8589,730005.4761
+-6.238929265,53.31286629,50 Km/h,,Standard,1,1,600mm,8,50,0,20160201,Bracket Mounted,Non TSM - County boundary sign. Location - Should be located north of Beech Hill Rd. junction.,Inappropriate,High,,717350.5472,730623.3248
+-6.173222578,53.27386993,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151118,Bracket Mounted,"Maintenance - Minor damage to both faces, sleeves faded, 50kmh face slightly rotated",Damaged Sign,Low,,721839.4917,726394.7173
+-6.159887622,53.23478207,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20151127,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Sign edge 500mm off road edge. both faces damaged, one face rotated, missing one sleeve.",Damaged Sign,Low,,722840.7494,722068.8239
+-6.120627498,53.23694463,30 Km/h,,Standard,0,0,600mm,8,30,0,20151125,Bracket Mounted,"Not in Bye laws. Maintenance - Sign rotated 180 degrees, height 2m, kerb offset 400mm, missing 50kmh sign on back, minor damage to sign, fit sleeves. missing 50",Inappropriate,High,,725455.0577,722377.5836
+-6.133879132,53.20864722,50 Km/h,,Standard,1,0,300mm,8,50,0,20151125,Bracket Mounted,"Maintenance - 3t sign has kerb offset of 0mm, sleeves faded.",,Low,,724652.7088,719206.222
+-6.257895983,53.26826148,50 Km/h,,Standard,1,0,300mm,8,50,0,20160111,Bracket Mounted,"Maintenance - Sign damaged and rotated, sleeves faded.",Damaged Sign,Low,,716207.797,725629.7347
+-6.214323321,53.25403229,50 Km/h,,Standard,1,0,300mm,8,50,0,20160108,Bracket Mounted,"Maintenance - minor damage, sleeves faded, slightly rotated.",Damaged Sign,Low,,719153.6171,724118.3836
+-6.196560104,53.29836239,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20151201,Bracket Mounted,"Non TSM - Signs too big. Maintenance - Fit sleeves, kerb offset 100mm, minor damage to one face.",Damaged Sign,Low,,720214.3311,729080.1171
+-6.14932167,53.24254041,60 Km/h,,Standard,1,0,600mm,8,60,0,20151123,Bracket Mounted,Maintenance - Fit sleeves,,Low,,723523.69,722950.1768
+-6.255444543,53.27688946,50 Km/h,,Standard,1,1,750mm,8,50,0,20160113,,Non TSM - Sign too big. Maintenance - Rotate sign 180 degrees & different size to sign on opposite side of road.,Inappropriate,High,,716347.874,726593.6428
+-6.210237849,53.26642955,50 Km/h,,Standard,1,1,600mm,8,50,0,20151217,,Mounting - Mounted on Lp. Non TSM - Sign too big.,,,,719391.6676,725504.4669
+-6.122544036,53.21278715,120 Km/h,,Standard,0,0,,8,120,0,20160201,Bracket Mounted,,,,,725397.7008,719686.6164
+-6.200530021,53.31095286,50 Km/h,,Standard,1,1,600mm,8,50,0,20151201,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Sleeves very faded, minor damage to sign",Damaged Sign,Low,,719914.4411,730474.2134
+-6.152314341,53.24067603,60 Km/h,,Standard,0,0,900mm,8,60,0,20160201,Bracket Mounted,,,,,723329.3244,722737.5903
+-6.226129247,53.288345,50 Km/h,,Standard,1,0,300mm,8,50,0,20151210,Bracket Mounted,,,,,718271.1534,727916.2718
+-6.244531368,53.27055684,100 Km/h,,Standard,1,0,,8,100,0,20160201,Bracket Mounted,,,,,717092.9377,725906.9199
+-6.280065567,53.26748165,50 Km/h,,Standard,1,1,600mm,8,50,0,20160111,Bracket Mounted,"Non TSM - County boundary sign. Maintenance - Sign obstructed, road offset 300mm, sign has minor damage.",Damaged Sign,High,,714731.1804,725507.1571
+-6.136008153,53.24684692,80 Km/h,60 Km/h,Standard,1,0,600mm,8,80,60,20151116,Bracket Mounted,"Traffic Lanes Speed Limit 80kmh, Bus Lane Speed Limit 60kmh (South Bound). Maintenance - pole has grafitti damage.",,Low,,724399.7207,723452.3781
+-6.146052157,53.26868407,50 Km/h,,Standard,1,0,300mm,8,50,0,20160106,Bracket Mounted,"Maintenance - Pole knocked, fit sleeves, kerb offset 150mm.",Damaged Pole,High,,723666.4505,725864.4305
+-6.221007698,53.22985999,50 Km/h,,Standard,1,1,600mm,8,50,0,20160107,,"Non TSM - Sign too big. Maintenance - Road offset 500mm, sign rotated, sleeves faded.",,Low,,718774.5465,721417.9593
+-6.223107901,53.27156508,80 Km/h,,Standard,0,1,900mm,8,80,0,20160115,Bracket Mounted,"Non TSM - Sign too big.  Maintenance - Not located at change in speed limit as per byelaws, fit sleeves.",,,,718519.0033,726054.4051
+-6.244531069,53.27756189,50 Km/h,,Standard,1,0,300mm,8,50,0,20160113,,Maintenance - Sleeves faded.,,Low,,717073.8128,726686.2784
+-6.137277145,53.29285646,30 Km/h,,Standard,1,1,600mm,8,30,0,20160104,,Non TSM -  Sign too big. Maintenance - Fit sleeves.,,Low,,724181.6168,728568.9439
+-6.134939978,53.29175275,30 Km/h,,Standard,0,1,600mm,8,30,0,20160104,,"Wrong location. Maintenance - Fit sleeves, minor damage to sign face, kerb offset 320mm.",Inappropriate,High,,724340.6179,728450.2152
+-6.186322994,53.30143903,50 Km/h,,Standard,1,0,300mm,8,50,0,20151201,Bracket Mounted,,,,,720887.9649,729439.6851
+-6.119562112,53.21685901,50 Km/h,,Standard,1,0,300mm,8,50,0,20151202,Bracket Mounted,"Maintenance - Both signs very dirty, warning sign damaged, warning sign kerb offset 100mm.",,Low,,725584.9356,720144.857
+-6.186838892,53.24507041,50 Km/h,50 Km/h,Standard,1,0,300mm,8,50,50,20151207,,Mounting - Mounted on Lp. Maintenance - Minor damage to one face.,Damaged Sign,Low,,721012.7,723167.4909
+-6.189336667,53.28045938,50 Km/h,,Standard,0,0,600mm,8,50,0,20151119,Bracket Mounted,"Maintenance - Sign edge 50mm over road, sleeves faded, sign face is slightly rotated, minor damage to sign face.",Damaged Sign,Low,,720746.2659,727100.4808
+-6.171937811,53.28806378,50 Km/h,,Standard,1,1,750mm,8,50,0,20151204,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Fit sleeves, sign face damaged, pole knocked, height 2.1m beside cycle track.",Damaged Sign,High,,721884.7727,727976.0515
+-6.222195448,53.27631691,50 Km/h,,Standard,1,0,300mm,8,50,0,20151210,,"Maintenance - Minor damage to sign face, height 1.8m.",Damaged Sign,Low,,718566.7065,726584.5892
+-6.215838259,53.27128634,120 Km/h,,Standard,0,0,,8,120,0,20160201,Bracket Mounted,,,,,719004.6194,726035.4738
+-6.133019266,53.19835766,120 Km/h,,Standard,1,0,,8,120,0,20160129,Bracket Mounted,,,,,724740.0207,718062.9716
+-6.128836328,53.24022181,100 Km/h,,Standard,0,0,,8,100,0,20160129,Bracket Mounted,,,,,724897.6007,722727.8107
+-6.115210407,53.23972517,30 Km/h,,Standard,0,0,600mm,8,30,0,20151125,Bracket Mounted,"Not in Bye laws. Maintenance - Missing 50kmh sign on back, fit sleeves.",Inappropriate,High,,725808.4763,722696.4478
+-6.143552183,53.28284063,50 Km/h,,Standard,1,0,300mm,8,50,0,20151218,Bracket Mounted,Maintenance - Fit sleeves.,,Low,,723792.276,727443.7443
+-6.162361947,53.27934913,50 Km/h,,Standard,1,0,300mm,8,50,0,20151218,Bracket Mounted,,,,,722548.1101,727022.8767
+-6.133317137,53.25003283,50 Km/h,,Standard,1,1,600mm,8,50,0,20160111,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Fit sleeves, kerb offset 350mm",,Low,,724570.0409,723811.5093
+-6.204769726,53.29907776,60 Km/h,,Standard,1,1,300mm,8,60,0,20151130,Bracket Mounted,"Non TSM - Sign too small. Maintenance - Height 1.93m beside cycle track, fit sleeves.",,Low,,719665.1424,729145.924
+-6.201157324,53.31178071,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20151201,Bracket Mounted,"Non TSM - Signs too big, one sign has Non TSM text style. Maintenance - Pole knocked, kerb offset 400mm.",Damaged Pole,High,,719870.3228,730565.2642
+-6.128574822,53.24150812,50 Km/h,,Standard,0,0,300mm,8,50,0,20151125,Bracket Mounted,"Wrong Sign - 50kmh sign in 80kmh zone, Maintenance - Height 1.7m",Inappropriate,High,,724911.3079,722871.3755
+-6.109523422,53.277988,50 Km/h,,Standard,1,0,300mm,8,50,0,20151120,,"Maintenance - Minor damage to sign, kerb offset 120mm.",Damaged Sign,Low,,726075.4448,726963.3589
+-6.255347354,53.27442183,50 Km/h,,Standard,1,0,600mm,8,50,0,20160113,,,,,,716361.0577,726319.2614
+-6.215249053,53.30830157,60 Km/h,,Standard,0,0,600mm,8,60,0,20151201,Bracket Mounted,Maintenance - Sleeves faded,,Low,,718941.0444,730154.6333
+-6.220563215,53.24489508,50 Km/h,,Standard,1,1,600mm,8,50,0,20151126,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Sign obscured, sign has minor damage.",Damaged Sign,High,,718762.5878,723091.4338
+-6.200694013,53.31158507,50 Km/h,,Standard,1,1,600mm,8,50,0,20151201,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Height 1.9m, kerb offset 200mm, fit sleeves .",,Low,,719901.7421,730544.2762
+-6.203296441,53.29679004,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151130,Bracket Mounted,"Maintenance - 60kmh sign has minor damage, 50kmh sign obscured.",Damaged Sign,High,,719769.7396,728893.8696
+-6.181838272,53.24846793,50 Km/h,,Standard,1,1,600mm,8,50,0,20151207,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Sign edge not 450mm off road edge, sign damaged, sleeves faded.",Damaged Sign,Low,,721336.8024,723553.9583
+-6.147694763,53.21857884,80 Km/h,50 Km/h,Standard,0,0,600mm,8,80,50,20151126,Bracket Mounted,"Maintenance - 80kmh sign is wrong, 50kmh sign has minor damage, pole angled, sleeves faded, road edge offset 0mm.",Inappropriate,High,,723701.3284,720287.1649
+-6.134789933,53.26606078,60 Km/h,,Standard,0,0,600mm,8,60,0,20160108,,"Maintenance - Sign face has minor damage, sleeves damaged and faded, kerb offset 350mm.",Damaged Sign,Low,,724425.2322,725592.1238
+-6.159859192,53.26714614,80 Km/h,60 Km/h,Standard,1,0,600mm,8,80,60,20151117,Bracket Mounted,"Traffic Lanes Speed Limit 80kmh, Bus Lane Speed Limit 60kmh (North Bound).",,,,722749.9566,725669.5271
+-6.296316518,53.26058971,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20160108,Bracket Mounted,"Non TSM - Signs too big for repeater. Maintenance - Signs rotated, fit sleeves, road offset 350mm.",,High,,713665.5013,724714.417
+-6.176399652,53.28690292,50 Km/h,,Standard,1,0,300mm,8,50,0,20151203,Bracket Mounted,"Maintenance - Pole at angle, sleeves faded, likely to become obscured.",Damaged Pole,Low,,721590.6075,727839.2978
+-6.211704621,53.26290597,50 Km/h,,Standard,1,1,600mm,8,50,0,20151217,Bracket Mounted,Non TSM -Sign too big. Maintenance - Kerb offset 400mm.,,Low,,719303.6398,725109.9988
+-6.154645818,53.24121807,120 Km/h,,Standard,0,0,900mm,8,120,0,20160201,Bracket Mounted,,,,,723172.1616,722793.8755
+-6.143188707,53.25212872,80 Km/h,50 Km/h,Standard,0,0,600mm,8,80,50,20151113,Bracket Mounted,,,,,723905.2862,724027.5312
+-6.178080097,53.25439075,50 Km/h,,Standard,0,0,,8,50,0,20160201,Bracket Mounted,,,,,721570.7889,724219.287
+-6.202560897,53.27228773,50 Km/h,60 Km/h,Standard,0,0,600mm,8,50,60,20160205,Bracket Mounted,,,,,719887.3427,726169.0739
+-6.137465462,53.29233571,30 Km/h,,Standard,1,0,600mm,8,30,0,20151222,,"Maintenance - Sign rotated 90 degrees and not visible, pole knocked, kerb offset 0mm.",Obscured,High,,724170.574,728510.6801
+-6.117686061,53.2367889,30 Km/h,,Standard,0,0,600mm,8,30,0,20151125,Bracket Mounted,"Not in Bye laws. Maintenance - Sign has minor damage, fit sleeves, height 1.74m,  yield on same pole.",Inappropriate,High,,725651.8457,722365.4235
+-6.168678173,53.27625959,50 Km/h,,Standard,1,0,300mm,8,50,0,20151218,Bracket Mounted,,,,,722135.7446,726668.3366
+-6.255521866,53.27812697,50 Km/h,,Standard,1,1,750mm,8,50,0,20160113,,Non TSM - Sign too big. Maintenance - Sticker on sign & different size to sign on opposite side of road.,Damaged Sign,Low,,716339.3565,726731.1984
+-6.216574067,53.30886891,60 Km/h,,Standard,1,1,300mm,8,60,0,20151201,Bracket Mounted,Non TSM - Sign too small. Maintenance - Fit sleeves.,,Low,,718851.1738,730215.5475
+-6.184685359,53.27866377,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151118,Bracket Mounted,"Maintenance - Pole knocked, sleeves faded.",Damaged Pole,High,,721061.4896,726908.5787
+-6.127958976,53.25710056,60 Km/h,,Standard,0,0,600mm,8,60,0,20160108,Bracket Mounted,Maintenance - Poor visibility around corner.,Obscured,High,,724906.9793,724607.1736
+-6.221554181,53.22147654,50 Km/h,50 Km/h,Standard,1,0,300mm,8,50,50,20160107,Bracket Mounted,"Maintenance - Pole at an angle, both signs rotated and barely visible, road offset 0mm.",Damaged Pole,High,,718761.261,720484.3474
+-6.141290134,53.29627563,50 Km/h,30 Km/h,Standard,0,1,600mm,8,50,30,20151201,Bracket Mounted,"Non TSM - Signs too big. Maintenance -Minor damage both faces, 0mm kerb offset, both signs rotated.",Damaged Sign,Low,,723904.2137,728942.3767
+-6.195959455,53.27358489,50 Km/h,,Standard,1,0,450mm,8,50,0,20151203,Bracket Mounted,,,,,720323.9676,726324.4847
+-6.132037391,53.19941987,100 Km/h,,Standard,0,0,,8,100,0,20160129,Bracket Mounted,,,,,724802.5309,718182.8585
+-6.236582062,53.31454897,50 Km/h,,Standard,1,1,600mm,8,50,0,20151216,Bracket Mounted,"Non TSM - County boundary sign. Maintenance - Sign has minor damage, slightly obscured by Lp.",Damaged Sign,Low,,717502.3191,730814.3938
+-6.225284972,53.28362992,50 Km/h,,Standard,1,1,750mm,8,50,0,20151210,Bracket Mounted,Non TSM - Sign too big. Maintenance - Sign rotated.,,Low,,718340.4692,727393.0861
+-6.122922905,53.22267501,50 Km/h,,Standard,1,0,300mm,8,50,0,20151202,,Mounting - Mounted on Lp. Maintenance Sign face has minor damage.,Damaged Sign,Low,,725343.5235,720786.0113
+-6.120637072,53.24528906,50 Km/h,,Standard,1,1,600mm,8,50,0,20151125,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Kerb offset 0mm, sleeves faded.",,Low,,725430.0139,723305.9164
+-6.129840781,53.28907675,50 Km/h,,Standard,1,1,600mm,8,50,0,20151222,,"Non TSM - Sign too big. Maintenance - Sign rotated, sleeves missing, sign edge over road.",,Low,,724688.3322,728161.383
+-6.169315696,53.26269867,50 Km/h,,Standard,1,0,300mm,8,50,0,20151217,Bracket Mounted,"Maintenance - Sleeves faded and damaged, sign slightly rotated.",,Low,,722131.8787,725158.5248
+-6.141488964,53.2967254,30 Km/h,,Standard,1,1,600mm,8,30,0,20160202,,Non TSM - Sign too big. Mounting - Mounted on Lp.,,,,723889.659,728992.0717
+-6.219228343,53.22068559,50 Km/h,,Standard,1,0,300mm,8,50,0,20160107,Bracket Mounted,Maintenance - Sleeves faded.,,Low,,718918.7532,720400.2152
+-6.178497031,53.30040094,50 Km/h,,Standard,1,1,600mm,8,50,0,20151201,Bracket Mounted,"Non TSM - Signs too big. Maintenance - Sign damaged, sleeves faded, sign edge over road.",Damaged Sign,Low,,721412.4878,729337.4623
+-6.188128329,53.23130925,80 Km/h,50 Km/h,Standard,0,0,600mm,8,80,50,20151127,Bracket Mounted,Village gateway sign.,,,,720965.449,721634.312
+-6.214990166,53.30768468,50 Km/h,,Standard,0,0,600mm,8,50,0,20151201,Bracket Mounted,Maintenance - Sleeves faded.,,Low,,718960.0109,730086.4303
+-6.197456381,53.23510639,50 Km/h,,Standard,1,0,300mm,8,50,0,20151124,Bracket Mounted,Maintenance - Height 3m.,,Low,,720332.0911,722041.0236
+-6.170594857,53.27204455,80 Km/h,60 Km/h,Standard,1,0,600mm,8,80,60,20151118,Bracket Mounted,"Traffic Lanes Speed Limit 80kmh, Bus Lane Speed Limit 60kmh (South Bound).",,,,722019.9332,726196.1168
+-6.13388613,53.26478192,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20160108,Bracket Mounted,"Maintenance - Height 1.9m, 60kmh face dirty, sleeves faded.",,Low,,724489.2325,725451.418
+-6.256520435,53.28877738,50 Km/h,,Standard,1,0,300mm,8,50,0,20160114,Bracket Mounted,Maintenance - Sleeves faded.,,Low,,716243.8555,727914.5053
+-6.12529367,53.20967269,50 Km/h,,Standard,0,1,750mm,8,50,0,20151125,Bracket Mounted,Non TSM - Sign too big.,,,,725223.1504,719335.3045
+-6.124657372,53.22763819,50 Km/h,,Standard,1,0,300mm,8,50,0,20151217,Bracket Mounted,"Maintenance - Sign face has minor damage, height 1.8m.",Damaged Sign,Low,,725213.2329,721335.1446
+-6.137651431,53.24752816,50 Km/h,,Standard,0,0,,8,50,0,20151116,Bracket Mounted,Maintenance - centre sign on pole.,,Low,,724288.0875,723525.3112
+-6.25358459,53.27186115,50 Km/h,,Standard,1,0,300mm,8,50,0,20160113,,Maintenance - Paint damage.,,Low,,716485.5785,726037.2401
+-6.210877633,53.30256956,50 Km/h,,Standard,1,1,600mm,8,50,0,20160106,Bracket Mounted,"Non TSM - Sign too big. Maintenance Sleeves faded,sign damaged, height 2m.",Damaged Sign,Low,,719248.3143,729524.1972
+-6.193754454,53.29946526,50 Km/h,,Standard,1,0,450mm,8,50,0,20151201,Bracket Mounted,,,,,720398.2311,729207.5426
+-6.192211302,53.27473762,50 Km/h,,Standard,1,1,600mm,8,50,0,20151203,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Sign obscured, sign and sleeves dirty.",Obscured,High,,720570.69,726459.049
+-6.189998409,53.30034549,50 Km/h,,Standard,1,0,300mm,8,50,0,20151201,Bracket Mounted,,,,,720646.0914,729311.8101
+-6.131048468,53.25448705,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151222,,Maintenance - Sleeves damaged & faded.,,Low,,724708.4647,724311.016
+-6.149819751,53.26134254,80 Km/h,50 Km/h,Standard,0,0,600mm,8,80,50,20151116,Bracket Mounted,"Maintenance - 50kmh face has minor damage, 80kmh is damaged, sleeves faded, kerb offset 300mm.",Damaged Sign,Low,,723436.3051,725041.1383
+-6.217947325,53.27197829,80 Km/h,,Standard,0,0,,8,80,0,20160201,Bracket Mounted,(Underpass),,,,718862.0367,726108.9471
+-6.233618635,53.28203704,50 Km/h,,Standard,1,0,300mm,8,50,0,20151209,Bracket Mounted,Maintenance - Minor damage to sign face.,Damaged Sign,Low,,717789.2001,727202.0997
+-6.25555944,53.2756659,50 Km/h,,Standard,1,1,750mm,8,50,0,20160113,,Non TSM - Sign too big. Maintenance - Cut back tree & different size to sign on opposite side of road.,Obscured,High,,716343.535,726457.3271
+-6.214048602,53.31018414,50 Km/h,,Standard,1,0,300mm,8,50,0,20160111,Bracket Mounted,Maintenance - Kerb offset 400mm,,Low,,719015.8018,730366.0807
+-6.135460201,53.20997886,50 Km/h,,Standard,1,0,300mm,8,50,0,20151126,Bracket Mounted,"Maintenance - Sign height 1.53m, pole at angle, sign rotated 90 degrees and not visible, sleeves faded.",Obscured,High,,724543.2451,719351.6175
+-6.207740448,53.30222254,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151201,Bracket Mounted,"Maintenance - Kerb offset 170mm, sleeves faded, 50kmh face slightly rotated.",,Low,,719458.3627,729490.8293
+-6.142834747,53.24429682,60 Km/h,,Standard,0,0,600mm,8,60,0,20151123,Bracket Mounted,,,,,723951.541,723156.8122
+-6.131657221,53.20935296,50 Km/h,,Standard,1,0,300mm,8,50,0,20151125,Bracket Mounted,Maintenance - Kerb offset 410mm.,,Low,,724799.0615,719288.6123
+-6.170008366,53.27166301,60 Km/h,,Standard,0,0,600mm,8,60,0,20151118,Bracket Mounted,Wrong Sign - 60kmh sign in 80kmh zone. Maintenance - sleeves badly faded.,Inappropriate,High,,722060.1349,726154.6709
+-6.21766646,53.30011158,50 Km/h,,Standard,1,1,600mm,8,50,0,20160106,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Pole at an angle, sleeves faded and damaged, sign rotated, sign edge 100mm over road.",Damaged Pole,High,,718802.691,729239.4199
+-6.124693966,53.2145416,50 Km/h,,Standard,0,0,,8,50,0,20160201,Bracket Mounted,,,,,725249.0005,719878.0374
+-6.272033424,53.26872757,100 Km/h,,Standard,1,0,,8,100,0,20160201,Bracket Mounted,,,,,715263.5807,725658.6977
+-6.232110358,53.26536694,50 Km/h,,Standard,1,0,300mm,8,50,0,20160111,Bracket Mounted,Maintenance - Likely to become obscured.,Obscured,High,,717935.6503,725349.9327
+-6.124426388,53.22778779,50 Km/h,,Standard,1,0,300mm,8,50,0,20151217,Bracket Mounted,"Maintenance - Pole at slight angle, fit sleeves, kerb offset 150mm.",Damaged Pole,Low,,725228.2172,721352.1928
+-6.168505266,53.23427217,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20151127,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Sign pole located in centre of footpath, kerb offset 300mm, sleeves faded, both faces obscured by trees, both faces slightly rotated.",Inappropriate,High,,722266.9683,721997.3252
+-6.138118148,53.23468092,50 Km/h,,Standard,1,0,300mm,8,50,0,20151127,Bracket Mounted,"Maintenance - Pole at slight angle, sleeves slightly faded, centre sign on pole, sign slightly rotated.",,Low,,724294.1676,722095.1912
+-6.158816888,53.28066644,50 Km/h,,Standard,1,1,600mm,8,50,0,20151218,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Sign slightly rotated, kerb offset 250mm.",,,,722780.7229,727175.5192
+-6.172820123,53.25374931,50 Km/h,,Standard,1,0,300mm,8,50,0,20151217,Bracket Mounted,Maintenance - Sign face has minor damage.,Damaged Sign,Low,,721923.5604,724156.8811
+-6.126409293,53.23541714,50 Km/h,30 Km/h,Standard,0,0,600mm,8,50,30,20151117,Bracket Mounted,"Maintenance - 50kmh face is hanging and has minor damage, 30kmh is rotated and barely visible and damaged, fit sleeves.",Damaged Sign,High,,725073.5939,722197.5151
+-6.198696828,53.24263916,50 Km/h,,Standard,1,0,300mm,8,50,0,20151124,Bracket Mounted,"Maintenance - Height 2m, sign has minor damage and is dirty, pole is at angle.",Damaged Sign,Low,,720228.1756,722876.9967
+-6.2291001,53.26507977,50 Km/h,,Standard,1,0,300mm,8,50,0,20151209,Bracket Mounted,Mounting - Mounted on Tp. Maintenance - Minor damage to sign.,Damaged Sign,Low,,718137.2377,725322.9541
+-6.14916382,53.24237574,60 Km/h,,Standard,1,0,600mm,8,60,0,20151123,Bracket Mounted,Maintenance - Sign damaged.,Damaged Sign,Low,,723534.699,722932.1286
+-6.247651158,53.269587,60 Km/h,,Standard,0,0,750mm,8,60,0,20160201,,No 60kmh in Byelaws at this location.,Inappropriate,High,,716887.5062,725793.913
+-6.215531899,53.25536983,50 Km/h,,Standard,1,0,300mm,8,50,0,20160111,Bracket Mounted,"Maintenance - Sleeves faded, sign face slightly tilted.",,Low,,719069.2642,724265.1788
+-6.243084968,53.26572246,50 Km/h,,Standard,1,0,300mm,8,50,0,20160111,,Mounting - Mounted on TP. Maintenance - Sign damaged.,Damaged Sign,Low,,717202.6288,725371.4352
+-6.114575049,53.27732224,50 Km/h,,Standard,1,0,300mm,8,50,0,20151120,,"Maintenance - Sign nail mounted to Tp, minor damage to sign.",Damaged Sign,Low,,725740.542,726880.3899
+-6.140625051,53.29418512,50 Km/h,30 Km/h,Standard,0,1,600mm,8,50,30,20160104,,"Maintenance - Fit sleeves, pole at an angle, both sign faces damaged, kerb offset 90mm.",Damaged Sign,High,,723954.598,728710.9506
+-6.179844786,53.27521178,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151118,Bracket Mounted,"Maintenance - 50kmh slightly obscured, sleeves faded.",Obscured,Low,,721394.0541,726532.7358
+-6.224740995,53.27233276,50 Km/h,,Standard,0,1,900mm,8,50,0,20160115,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Not located at change in speed limit as per byelaws, 50kmh sign in an 80kmh zone, fit sleeves.",Inappropriate,High,,718407.9639,726137.1071
+-6.137659365,53.24794567,50 Km/h,,Standard,0,0,600mm,8,50,0,20151116,Bracket Mounted,,,,,724286.3479,723571.7464
+-6.243550304,53.2744444,50 Km/h,,Standard,1,0,300mm,8,50,0,20160113,Bracket Mounted,"Maintenance - Pole at an angle, sleeves faded, sign rotated slightly.",Damaged Pole,Low,,717147.7402,726341.044
+-6.194305598,53.30775337,50 Km/h,50 Km/h,Standard,1,0,450mm,8,50,50,20151201,Bracket Mounted,,,,,720338.1885,730128.7167
+-6.225515201,53.28625108,50 Km/h,,Standard,1,0,300mm,8,50,0,20151210,Bracket Mounted,,,,,718317.8763,727684.3257
+-6.244752754,53.27755698,50 Km/h,,Standard,1,0,300mm,8,50,0,20160113,,"Maintenance - Sleeves faded, rotate sign.",,Low,,717059.0432,726685.3685
+-6.118841765,53.28554371,50 Km/h,,Standard,0,0,300mm,8,50,0,20151119,Bracket Mounted,"Maintenance - Face slightly rotated, kerb offset 130mm.",,,,725431.9393,727787.567
+-6.218219308,53.29968629,50 Km/h,,Standard,1,0,600mm,8,50,0,20160111,Bracket Mounted,"Non TSM - Sign too big. Maintenance -  Sign face damaged, sleeves faded, wrong side of road",Damaged Sign,Low,,718767.0241,729191.1852
+-6.187494037,53.27969423,60 Km/h,,Standard,0,0,600mm,8,60,0,20151119,Bracket Mounted,"Maintenance - Sign face damaged, pole is angled, sleeves faded, kerb offset 0mm.",Damaged Sign,Low,,720871.2915,727018.4685
+-6.124646741,53.22409559,50 Km/h,,Standard,1,0,300mm,8,50,0,20151217,Bracket Mounted,Maintenance - Fit sleeves.,,Low,,725224.2795,720941.0359
+-6.196248213,53.23941877,50 Km/h,,Standard,1,1,600mm,8,50,0,20151215,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Sleeves faded, 3t limit sign on back.",,Low,,720400.6329,722522.8326
+-6.137330684,53.29281164,30 Km/h,,Standard,1,1,600mm,8,30,0,20151222,,"Non TSM - Sign too big. Maintenance - Minor damage to sign face, fit sleeves.",Damaged Sign,Low,,724178.1779,728563.8644
+-6.133668933,53.23562743,50 Km/h,,Standard,1,1,300mm,8,50,0,20160107,Bracket Mounted,Non TSM - Village traffic calming sign.,,,,724588.4066,722208.2373
+-6.238521129,53.31354114,50 Km/h,,Standard,1,1,600mm,8,50,0,20151209,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Sign obscured by Lp, kerb offset 420mm, height 1.96m, pole knocked, sign rotated and has minor damage.",Damaged Sign,High,,717375.8896,730699.0766
+-6.132815457,53.19833523,120 Km/h,,Standard,1,0,,8,120,0,20160129,Bracket Mounted,,,,,724753.7017,718060.8317
+-6.128400837,53.24113753,80 Km/h,50 Km/h,Standard,0,0,600mm,8,80,50,20151116,Bracket Mounted,,,,,724923.9991,722830.4498
+-6.136597286,53.26707354,50 Km/h,,Standard,1,0,300mm,8,50,0,20160106,Bracket Mounted,"Maintenance - Sleeves faded and missing, sign dirty and rotated, pole knocked, kerb offset 0mm.",Damaged Pole,High,,724301.7407,725701.6532
+-6.273179487,53.28005015,50 Km/h,,Standard,1,1,600mm,8,50,0,20160111,Bracket Mounted,Non TSM - Text style and sign too big. Maintenance - sign face has minor damage.,Damaged Sign,Low,,715156.7,726916.5668
+-6.150587515,53.24127351,120 Km/h,,Standard,0,0,900mm,8,120,0,20160201,Bracket Mounted,,,,,723442.8556,722807.0423
+-6.114982426,53.23970027,30 Km/h,,Standard,0,0,600mm,8,30,0,20151125,Bracket Mounted,"Not in Bye laws. Maintenance - Sign hanging and rotated, height 1.46m, stop sign on same pole, fit sleeves, missing 50kmh sign on back.",Inappropriate,High,,725823.7654,722694.0778
+-6.168329294,53.28630168,50 Km/h,,Standard,1,1,750mm,8,50,0,20151204,Bracket Mounted,Non TSM - Sign too big. Maintenance - Fit sleeves.,,Low,,722130.3705,727786.1697
+-6.257371453,53.26671924,100 Km/h,,Standard,1,0,,8,100,0,20160201,Bracket Mounted,,,,,716246.9667,725459.0023
+-6.139898338,53.20733924,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20151125,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Minor damage to one faces, one face slightly rotated and obscured, sleeves faded, off centre on pole.",Damaged Sign,Low,,724254.4637,719050.2311
+-6.22114951,53.27539439,50 Km/h,,Standard,1,1,600mm,8,50,0,20151210,Bracket Mounted,Non TSM - Sign too big.,,,,718639.0115,726483.6893
+-6.219177436,53.31040142,50 Km/h,,Standard,0,0,600mm,8,50,0,20151201,Bracket Mounted,"Maintenance - Height 1.98m beside cycle track, sleeves faded, face has minor damage.",Damaged Sign,High,,718673.445,730381.7213
+-6.267381691,53.3060894,50 Km/h,,Standard,1,1,600mm,8,50,0,20151216,Bracket Mounted,"Non TSM - County boundary sign. Maintenance - Sign has minor damage, slightly obscured by Lp, kerb offset 400mm.",Damaged Sign,Low,,715473.0489,729822.9806
+-6.185881281,53.27803238,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151118,Bracket Mounted,"Maintenance - Pole at slight angle, kerb offset 200mm, 60kmh face damaged, sleeves faded, 50kmh face has minor damage.",Damaged Sign,Low,,720983.5257,726836.3068
+-6.198962285,53.27632166,50 Km/h,,Standard,1,0,300mm,8,50,0,20151217,Bracket Mounted,"Maintenance - Sign damaged and slightly rotated, sleeves faded.",Damaged Sign,Low,,720116.033,726623.9148
+-6.189115243,53.30099948,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20151201,Bracket Mounted,"Non TSM - Signs too big. Maintenance - Pole knocked, sleeves damaged and missing.",Damaged Pole,High,,720703.109,729386.062
+-6.139186239,53.24882459,80 Km/h,60 Km/h,Standard,1,0,600mm,8,80,60,20151202,Bracket Mounted,"Traffic Lanes Speed Limit 80kmh, Bus Lane Speed Limit 60kmh (North Bound).",,,,724181.9142,723666.8771
+-6.223846995,53.27973497,50 Km/h,,Standard,1,0,300mm,8,50,0,20151210,Bracket Mounted,Maintenance - Sleeves faded.,,Low,,718447.1182,726962.1305
+-6.249457473,53.27168242,50 Km/h,,Standard,1,0,300mm,8,50,0,20160113,,Maintenance - Raise both signs.,,Low,,716761.3192,726024.0898
+-6.209163752,53.30379289,60 Km/h,,Standard,1,0,600mm,8,60,0,20151201,Bracket Mounted,"Maintenance - Bus lane time plate is misleading, sleeves very dirty.",Inappropriate,High,,719359.125,729663.1618
+-6.13816833,53.29615232,30 Km/h,,Standard,1,1,450mm,8,30,0,20160202,,Non TSM - Sign too big. Mounting - Mounted on Lp above Speed Alert Sign.,,,,724112.6543,728934.0762
+-6.126443493,53.27699064,50 Km/h,,Standard,1,0,300mm,8,50,0,20151119,Bracket Mounted,"Maintenance - Badly damaged sign face, height 2.04m, kerb offset 300mm, fit sleeves.",Damaged Sign,High,,724950.0735,726822.6813
+-6.216394683,53.27073979,100 Km/h,,Standard,0,0,,8,100,0,20160201,Bracket Mounted,,Obscured,High,,718969.0266,725973.7405
+-6.241535555,53.28527826,50 Km/h,,Standard,1,0,300mm,8,50,0,20160113,Bracket Mounted,Maintenance - Sleeves faded.,,Low,,717252.4417,727549.6868
+-6.175967018,53.25265504,50 Km/h,,Standard,0,0,,8,50,0,20160201,Bracket Mounted,,,,,721716.702,724029.7758
+-6.297784159,53.24281394,50 Km/h,,Standard,1,1,600mm,8,50,0,20160114,,"Non TSM - County boundary sign. Maintenance - Sign not at county boundary, sign very dirty.",Inappropriate,High,,713614.6851,722734.4048
+-6.134927818,53.26716732,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20160108,Bracket Mounted,Maintenance - 60kmh face is damaged,Damaged Sign,Low,,724412.8223,725714.991
+-6.1784322,53.28353974,50 Km/h,,Standard,1,0,300mm,8,50,0,20151203,Bracket Mounted,Maintenance - Sleeves faded.,,Low,,721464.6373,727461.6681
+-6.286108204,53.26694139,100 Km/h,,Standard,1,0,,8,100,0,20160201,Bracket Mounted,,,,,714329.5715,725437.367
+-6.19399502,53.28232285,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151119,Bracket Mounted,"Maintenance - both faces rotated, 60kmh face is damaged, kerb offset 100mm, sleeves faded.",Damaged Sign,Low,,720430.4073,727299.942
+-6.196678702,53.29834316,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20151201,Bracket Mounted,"Non TSM - Signs too big. Maintenance - One sign damaged, one sign has minor damage, fit sleeves.",Damaged Sign,Low,,720206.4803,729077.7775
+-6.126469907,53.23588194,50 Km/h,,Standard,1,0,300mm,8,50,0,20151217,Bracket Mounted,Maintenance - Sleeves slightly faded.,,Low,,725068.1929,722249.1197
+-6.179595872,53.27581067,60 Km/h,,Standard,1,0,600mm,8,60,0,20151118,Bracket Mounted,Maintenance - Replace missing sleeves.,,Low,,721408.9563,726599.7887
+-6.196583349,53.28918416,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151119,Bracket Mounted,"Maintenance - 60kmh face rotated and obscured, sleeves faded and damaged.",Obscured,High,,720238.5579,728058.9438
+-6.197176282,53.29855856,50 Km/h,,Standard,1,0,300mm,8,50,0,20151201,Bracket Mounted,,,,,720172.7108,729100.9053
+-6.135239221,53.2451802,80 Km/h,50 Km/h,Standard,0,0,600mm,8,80,50,20151116,Bracket Mounted,"Maintenance - kerb offset 250mm, 80kmh face has minor damage, sleeves faded.",Damaged Sign,Low,,724455.8699,723268.2871
+-6.257865371,53.2726311,50 Km/h,,Standard,1,0,300mm,8,50,0,20160113,,Maintenance - Sign warped.,Damaged Sign,Low,,716197.988,726115.9338
+-6.210960537,53.30253405,50 Km/h,,Standard,1,1,600mm,8,50,0,20160106,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Sleeves faded, kerb offset 300mm, pole at an angle.",Damaged Pole,High,,719242.888,729520.1076
+-6.187901711,53.27623068,50 Km/h,,Standard,1,1,600mm,8,50,0,20151203,Bracket Mounted,Non TSM - Sign too big. Maintenance - Sleeves faded.,,Low,,720853.8793,726632.439
+-6.215804124,53.21125643,50 Km/h,,Standard,0,1,600mm,8,50,0,20160115,,"Non TSM - County boundary sign. Maintenance - Pole at an angle, sign damaged, 0mm road offset.",Damaged Sign,High,,719173.571,719356.873
+-6.132704341,53.25098417,50 Km/h,,Standard,0,0,600mm,8,50,0,20160108,Bracket Mounted,"Maintenance - Sign face has minor damage, sleeves missing and damaged.",Damaged Sign,Low,,724608.1659,723918.4179
+-6.157162895,53.26567287,80 Km/h,60 Km/h,Standard,1,0,600mm,8,80,60,20151117,Bracket Mounted,"Traffic Lanes Speed Limit 80kmh, Bus Lane Speed Limit 60kmh (South Bound). Maintenance - minor damage to sign face, pole slightly rotated.",Damaged Sign,Low,,722934.0269,725510.2525
+-6.161155165,53.27268037,50 Km/h,,Standard,1,0,300mm,8,50,0,20151204,Bracket Mounted,"Maintenance - Sleeves faded, sign bit dirty, height 2m beside cycle track.",,Low,,722647.672,726283.0135
+-6.210803521,53.26293289,50 Km/h,,Standard,1,1,600mm,8,50,0,20151217,,"Non TSM - Sign too big. Maintenance - Fit sleeves, kerb offset 200mm, pole at slight angle and damaged.",Damaged Pole,Low,,719363.675,725114.4978
+-6.147994818,53.26116087,80 Km/h,60 Km/h,Standard,1,0,600mm,8,80,60,20151116,Bracket Mounted,"Traffic Lanes Speed Limit 80kmh, Bus Lane Speed Limit 60kmh (South Bound). Maintenance - sign damaged.",Damaged Sign,Low,,723558.5687,725024.0792
+-6.197075149,53.24077967,50 Km/h,50 Km/h,Standard,1,0,450mm,8,50,50,20151124,Cap Mounted,Maintenance - Sign slightly rotated.,,Low,,720341.6218,722672.8473
+-6.122388343,53.23681179,50 Km/h,30 Km/h,Standard,0,0,600mm,8,50,30,20151125,Bracket Mounted,"Not in Bye laws. Maintenance - Fit sleeves, Height 1.8m.",Inappropriate,High,,725337.9149,722359.7163
+-6.134719581,53.26989049,60 Km/h,,Standard,1,0,600mm,8,60,0,20151222,,Mounting - Mounted on Lp.,,,,724418.8041,726018.3192
+-6.166101897,53.26646325,50 Km/h,,Standard,1,0,300mm,8,50,0,20151217,,Mounting - Mounted on Lp. Maintenance - Sign face has minor damage.,Damaged Sign,Low,,722335.5156,725582.8489
+-6.260420209,53.28067626,50 Km/h,,Standard,1,0,600mm,8,50,0,20160113,Bracket Mounted,"Maintenance - Kerb offset 300mm, sleeves faded, on same pole as Stop sign.",,Low,,716005.8097,727006.8618
+-6.172018379,53.25215208,120 Km/h,,Standard,0,0,,8,120,0,20160201,Bracket Mounted,,,,,721981.5982,723980.5492
+-6.220969205,53.27252546,50 Km/h,,Standard,0,1,750mm,8,50,0,20160115,Bracket Mounted,Non TSM - Sign too big. Maintenance - Fit sleeves.,,,,718658.9818,726164.8026
+-6.209478577,53.22368826,50 Km/h,,Standard,1,0,300mm,8,50,0,20160107,Bracket Mounted,Maintenance - Road offset 300mm.,,Low,,719561.4119,720750.5341
+-6.117652498,53.23972316,30 Km/h,,Standard,0,1,750mm,8,30,0,20151125,Bracket Mounted,"Not in Bye laws. Non TSM - Traffic calming sign, sign too big. Maintenance - Located outside zone, obscured by ramp sign.",Inappropriate,High,,725645.4908,722691.9293
+-6.12891439,53.20952713,50 Km/h,,Standard,1,0,300mm,8,50,0,20151125,Bracket Mounted,Maintenance - Kerb offset 230mm.,,Low,,724981.7482,719312.7786
+-6.200836344,53.2588868,50 Km/h,,Standard,1,0,300mm,8,50,0,20151217,,Mounting - Mounted on Lp.,,,,720039.8903,724681.0388
+-6.243785294,53.2723931,50 Km/h,,Standard,1,0,900mm,8,50,0,20160114,Bracket Mounted,.tc,,,,717137.6773,726112.438
+-6.13272668,53.28676117,50 Km/h,,Standard,1,0,450mm,8,50,0,20160204,Bracket Mounted,"Maintenance - Pole at slight angle, kerb offset 100mm, fit sleeves.",Damaged Pole,Low,,724502.6742,727898.7318
+-6.16630358,53.27080269,80 Km/h,,Standard,0,0,600mm,8,80,0,20151118,Bracket Mounted,"Maintenance - Centre sign on pole, fit 50kmh sign to pole.",Missing,Low,,722309.6756,726065.2886
+-6.146575483,53.23685718,50 Km/h,,Standard,1,0,300mm,8,50,0,20151127,Bracket Mounted,"Maintenance - Sleeves faded, warning sign rotated, edge of warning sign not 600mm off road edge.",,Low,,723723.3583,722322.6412
+-6.261245807,53.26918765,50 Km/h,,Standard,1,1,600mm,8,50,0,20160111,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Sign has minor damage and rotated, road offset 250mm, sleeves faded.",Damaged Sign,Low,,715981.8582,725727.3359
+-6.193027439,53.28223287,60 Km/h,,Standard,1,1,300mm,8,60,0,20151204,Bracket Mounted,"Non TSM - Sign too small. Maintenance - Pole at angle, fit sleeves, height 1.9m, time plate misleading.",Damaged Pole,High,,720495.1759,727291.5624
+-6.213342247,53.2641955,50 Km/h,,Standard,1,0,300mm,8,50,0,20160111,Bracket Mounted,"Maintenance - Height 1.8m, on yield pole, sleeves faded, sign face damaged.",Damaged Sign,Low,,719190.8115,725250.7348
+-6.179984714,53.29277101,50 Km/h,,Standard,1,0,300mm,8,50,0,20151204,,Mounting - Mounted on Lp. Maintenance - Sign face has minor damage.,Damaged Sign,Low,,721334.9616,728486.0618
+-6.143116752,53.24444763,50 Km/h,,Standard,0,0,600mm,8,50,0,20151123,Bracket Mounted,Maintenance - Sign face has minor damage.,Damaged Sign,Low,,723932.2854,723173.1006
+-6.133783303,53.20862775,50 Km/h,,Standard,1,0,300mm,8,50,0,20151125,Bracket Mounted,"Maintenance - 3t sign has height of 1.84m and 0mm kerb offset, sign dirty.",,Low,,724659.1658,719204.2222
+-6.243638001,53.27324391,50 Km/h,,Standard,1,0,300mm,8,50,0,20160113,,Maintenance - Sleeves faded.,,Low,,717145.1743,726207.3381
+-6.137140376,53.2929575,50 Km/h,,Standard,0,0,600mm,8,50,0,20151222,,"Maintenance - Sign rotated and off centre, sign face damaged, sleeves have graffiti on them, sign edge 20mm over road.",Damaged Sign,Low,,724190.4407,728580.4226
+-6.129944449,53.24141621,80 Km/h,50 Km/h,Standard,0,0,600mm,8,80,50,20151116,Bracket Mounted,"Maintenance - sign obscured on 80kmh side, 50kmh face has minor damage.",Obscured,Low,,724820.1666,722858.7575
+-6.134748811,53.20943207,50 Km/h,,Standard,1,1,600mm,8,50,0,20151126,Bracket Mounted,Non TSM - Sign too big.,,,,724592.3447,719292.0234
+-6.269519896,53.30377138,50 Km/h,,Standard,1,1,600mm,8,50,0,20151216,Bracket Mounted,"Non TSM - County boundary sign. Maintenance - Sign facing wrong way around, sign face damaged.",Inappropriate,High,,715336.8047,729561.6289
+-6.146952183,53.25948683,80 Km/h,,Standard,1,0,600mm,8,80,0,20151118,Bracket Mounted,Maintenance - sleeves faded.,,Low,,723632.951,724839.638
+-6.134022943,53.26492202,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151222,,"Maintenance - Sign damaged, sleeves faded, pole at an angled.",Damaged Sign,High,,724479.6996,725466.7665
+-6.149068032,53.26239228,80 Km/h,50 Km/h,Standard,0,0,750mm,8,80,50,20151119,Bracket Mounted,"Maintenance - 50kmh sign dia. 600mm, 80kmh sign dia. 750mm, minor damage both faces, 50kmh sign rotated.",Damaged Sign,Low,,723483.4271,725159.2255
+-6.192611409,53.2996506,50 Km/h,,Standard,1,0,300mm,8,50,0,20151201,Bracket Mounted,Maintenance - Fit sleeves.,,Low,,720473.8937,729230.0898
+-6.165227776,53.26993871,80 Km/h,60 Km/h,Standard,1,0,600mm,8,80,60,20151117,Bracket Mounted,"Traffic Lanes Speed Limit 80kmh, Bus Lane Speed Limit 60kmh (South Bound).",,,,722383.8938,725971.008
+-6.196438403,53.28994661,60 Km/h,,Standard,1,1,300mm,8,60,0,20151130,Bracket Mounted,"Non TSM - Sign too small. Maintenance - Height 1.64m, fit sleeves.",,Low,,720246.0796,728144.0148
+-6.24699025,53.26917726,100 Km/h,,Standard,0,0,600mm,8,100,0,20160201,,Wrong location - Should be further back towards roundabout.,Inappropriate,High,,716932.7052,725749.4074
+-6.144394336,53.2545468,80 Km/h,50 Km/h,Standard,0,0,600mm,8,80,50,20151116,Bracket Mounted,Maintenance - 50kmh  face has minor damage.,Damaged Sign,Low,,723817.8586,724294.4639
+-6.226718967,53.26273938,50 Km/h,,Standard,1,1,600mm,8,50,0,20151209,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Height 1.91m beside cycle track, fit sleeves.",,Low,,718302.5296,725066.5099
+-6.119405076,53.2768469,50 Km/h,,Standard,1,0,300mm,8,50,0,20151119,Bracket Mounted,"Maintenance - Sign face damaged, sleeves faded, kerb offset 250mm.",Damaged Sign,Low,,725419.8482,726819.0185
+-6.255576914,53.28766264,50 Km/h,,Standard,1,0,300mm,8,50,0,20160113,Bracket Mounted,,,,,716309.7858,727792.0177
+-6.262871747,53.27494093,50 Km/h,,Standard,1,0,300mm,8,50,0,20140515,,,,,,715857.852,726364.79
+-6.164873839,53.20474113,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20160115,Bracket Mounted,"Non TSM - Sign too big for repeater, County boundary sign. Maintenance - County boundary sign facing wrong way.",Inappropriate,High,,722593.6829,718718.0873
+-6.192026305,53.23529058,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20151127,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Both signs slightly rotated, sleeves faded, sign edge 280mm from road edge, one sign slightly obscured by trees.",Obscured,Low,,720694.0336,722070.6681
+-6.167054264,53.27037457,80 Km/h,50 Km/h,Standard,0,0,600mm,8,80,50,20151118,Bracket Mounted,Maintenance - Sleeves faded.,,Low,,722260.8306,726016.3741
+-6.254478412,53.30774951,50 Km/h,,Standard,1,1,600mm,8,50,0,20151216,Bracket Mounted,Non TSM - Sign too big. Maintenance - Sign slightly rotated.,,,,716328.4191,730028.6136
+-6.179267866,53.29997979,50 Km/h,,Standard,1,1,600mm,8,50,0,20151204,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Sign rotated 90 degrees and not visible, sign face has minor damage, edge of sign 100mm onto road.",Damaged Sign,High,,721362.3069,729289.2976
+-6.272104931,53.26874182,50 Km/h,,Standard,1,1,600mm,8,50,0,20160111,Bracket Mounted,Non TSM - Sign too big. Maintenance - Sign has minor damage.,Damaged Sign,Low,,715258.773,725660.1676
+-6.194746051,53.28954172,50 Km/h,,Standard,0,0,600mm,8,50,0,20151204,Bracket Mounted,"Maintenance - 50kmh face damaged and rotated 180 degrees, sleeves faded, kerb offset 300mm, 60kmh sign missin",Damaged Sign,High,,720360.0387,728101.8185
+-6.26304517,53.27130577,50 Km/h,,Standard,1,1,600mm,8,50,0,20160111,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Pole at an angle, kerb offset 250mm.",Damaged Pole,Low,,715856.1165,725960.0724
+-6.140642973,53.23961324,50 Km/h,,Standard,1,0,300mm,8,50,0,20160111,Bracket Mounted,"Maintenance - Sign face damaged, pole knocked, fit sleeves.",Damaged Sign,High,,724111.3629,722639.5453
+-6.128059142,53.23497797,50 Km/h,30 Km/h,Standard,0,0,600mm,8,50,30,20151117,Bracket Mounted,"Maintenance - kerb offset 0mm, 30kmh face is damaged, 50kmh face has minor damage.",Damaged Sign,Low,,724964.7468,722145.7713
+-6.185541544,53.3014026,50 Km/h,,Standard,1,0,300mm,8,50,0,20151201,Bracket Mounted,Maintenance - Kerb offset 110mm.,Inappropriate,High,,720940.1493,729436.955
+-6.198809841,53.24446073,50 Km/h,,Standard,1,0,300mm,8,50,0,20151124,Bracket Mounted,"Maintenance - Sign is damaged, sleeves faded, sign 100mm over road.",Damaged Sign,Low,,720215.5273,723079.4655
+-6.179943638,53.27526011,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151118,Bracket Mounted,"Maintenance - 50kmh face damaged, kerb offset 300mm, sleeves faded.",Damaged Sign,Low,,721387.3249,726537.9453
+-6.1139571,53.23957763,30 Km/h,,Standard,0,0,600mm,8,30,0,20151125,Bracket Mounted,"Not in Bye laws. Maintenance - Missing 50kmh sign on back, fit sleeves, slightly rotated.",Inappropriate,High,,725892.5582,722682.2387
+-6.262782185,53.2744145,50 Km/h,,Standard,1,1,600mm,8,50,0,20160111,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Kerb offset 400mm, sleeves faded.",,Low,,715865.2486,726306.366
+-6.175205735,53.28914911,50 Km/h,,Standard,1,1,750mm,8,50,0,20151203,Bracket Mounted,Non TSM - Sign too big. Maintenance - Fit sleeves.,,Low,,721663.8231,728091.2309
+-6.135323205,53.29201156,50 Km/h,30 Km/h,Standard,0,0,600mm,8,50,30,20160104,,"Maintenance - Sign rotated and not visible, fit sleeves, minor damage to 50kmh face, kerb offset 320mm.",Obscured,High,,724314.3198,728478.3425
+-6.134955291,53.21310509,50 Km/h,,Standard,1,0,300mm,8,50,0,20151126,Bracket Mounted,Maintenance - Sleeves faded.,,Low,,724567.8976,719700.3007
+-6.135516031,53.27906755,60 Km/h,,Standard,1,0,450mm,8,60,0,20160108,Bracket Mounted,Maintenance - Kerb offset 400mm.,,Low,,724339.0451,727037.923
+-6.20341667,53.2600292,50 Km/h,,Standard,1,0,300mm,8,50,0,20151217,,Mounting - Mounted on Lucas pole,,,,719864.5527,724803.8071
+-6.210636324,53.25073102,50 Km/h,,Standard,1,1,600mm,8,50,0,20151124,,Non TSM - Sign too big. Maintenance - Height 1.6m.,,Low,,719408.8123,723757.2497
+-6.185572729,53.30146671,50 Km/h,,Standard,1,1,600mm,8,50,0,20151201,Bracket Mounted,"Non TSM - Signs too big. Maintenance - Kerb offset 200mm, minor damage to face, sign rotated and not visible, mounted on stop sign pole",Inappropriate,High,,720937.8897,729444.0343
+-6.207048398,53.26127751,50 Km/h,,Standard,1,0,300mm,8,50,0,20151217,,Mounting - Mounted on Lp.,,,,719618.7895,724936.6048
+-6.194923985,53.28735555,50 Km/h,,Standard,0,0,600mm,8,50,0,20151119,Bracket Mounted,,,,,720354.3215,727858.2941
+-6.137689598,53.1994355,50 Km/h,,Standard,1,1,600mm,8,50,0,20160115,Bracket Mounted,"Non TSM - County boundary sign. Maintenance - Sign edge 100mm over road, sign has minor damage.",Damaged Sign,High,,724424.8872,718174.7519
+-6.130924174,53.243607,50 Km/h,,Standard,0,0,600mm,8,50,0,20151118,Bracket Mounted,Maintenance - sign face has minor damage.,Damaged Sign,Low,,724748.4073,723100.7827
+-6.136312332,53.29242167,30 Km/h,,Standard,1,1,600mm,8,30,0,20151222,,"Non TSM - Sign too big. Maintenance - Sign rotated, fit sleeves.",,High,,724247.1931,728522.2484
+-6.181696476,53.221417,80 Km/h,,Standard,1,0,600mm,8,80,0,20151125,Bracket Mounted,"Maintenance - Minor damage to face, slightly rotated.",Damaged Sign,Low,,721422.8021,720544.6534
+-6.216209904,53.30928011,50 Km/h,,Standard,1,0,450mm,8,50,0,20151201,Bracket Mounted,,,,,718874.2977,730261.9025
+-6.185664758,53.27793274,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151118,,"Maintenance - Straighten 60kmh face, both signs have minor damage, kerb offset 170mm.",Damaged Sign,Low,,720998.2457,726825.5879
+-6.197931923,53.27894855,50 Km/h,,Standard,1,0,300mm,8,50,0,20151215,Bracket Mounted,"Maintenance - Sign rotated and not visible, kerb offset 350mm, sleeves faded.",Obscured,High,,720177.3739,726917.9036
+-6.251238181,53.27163559,50 Km/h,,Standard,1,0,300mm,8,50,0,20160113,,Maintenance - Paint damage.,Damaged Sign,Low,,716642.6838,726015.9714
+-6.11459895,53.26968002,50 Km/h,,Standard,1,1,300mm,8,50,0,20151125,,Non TSM - Village traffic calming sign. Maintenance - Sign very dirty.,,Low,,725761.3806,726030.1188
+-6.123915008,53.25208709,50 Km/h,50 Km/h,Standard,1,0,300mm,8,50,50,20151203,Bracket Mounted,Maintenance - Sleeves and one face very dirty.,,Low,,725191.4149,724056.4794
+-6.131853904,53.27848875,50 Km/h,,Standard,1,1,600mm,8,50,0,20151119,Bracket Mounted,Non TSM - Sign too big. Maintenance - Minor damage to sign face.,Damaged Sign,Low,,724584.9246,726979.9074
+-6.135726127,53.20366596,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20151125,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Pole is 100mm off road edge, sign is 200mm over road, sleeves faded, slightly rotated, height 2m, one face has minor damage",Damaged Sign,High,,724543.7909,718648.8213
+-6.155073411,53.2364386,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20151127,Bracket Mounted,"Non TSM - Signs too big. Maintenance - Sleeves faded, pole at slight angle.",,Low,,723157.3456,722261.4014
+-6.137535661,53.29610595,30 Km/h,,Standard,1,1,450mm,8,30,0,20160202,Bracket Mounted,"Non TSM - Sign to big. Maintenance - Height 1.9m, minor damage to sign face, fit sleeves.",Damaged Sign,Low,,724154.9592,728930.0163
+-6.134661197,53.26696713,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20160108,Bracket Mounted,Maintenance - 50kmh face slightly tilted and obscured by traffic lights.,Obscured,High,,724431.1872,725693.1831
+-6.218268229,53.30938413,60 Km/h,,Standard,1,1,300mm,8,60,0,20151201,Bracket Mounted,"Non TSM - Sign too small. Maintenance - Sign very dirty, fit sleeves.",,High,,718736.8519,730270.0526
+-6.179749191,53.27572098,60 Km/h,60 Km/h,Standard,1,0,600mm,8,60,60,20151118,Bracket Mounted,"Maintenance - Pole angled, sleeves faded.",Damaged Pole,High,,721398.9861,726589.5498
+-6.242687627,53.28628628,50 Km/h,,Standard,1,0,300mm,8,50,0,20160113,Bracket Mounted,"Maintenance - Sleeves faded, sign face has minor damage.",Damaged Sign,Low,,717172.8715,727659.9458
+-6.135045287,53.24567265,80 Km/h,60 Km/h,Standard,1,0,600mm,8,80,60,20151116,Bracket Mounted,"Traffic Lanes Speed Limit 80kmh, Bus Lane Speed Limit 60kmh (North Bound).",,,,724467.3826,723323.4112
+-6.260107609,53.27367888,50 Km/h,,Standard,1,0,300mm,8,50,0,20160113,,,,,,716045.6088,726228.863
+-6.198411183,53.24177385,50 Km/h,,Standard,1,0,300mm,8,50,0,20151124,Bracket Mounted,"Maintenance - Sign damaged, Height 1.65m.",Damaged Sign,Low,,720249.6653,722781.2065
+-6.170729196,53.2572243,50 Km/h,,Standard,1,0,300mm,8,50,0,20151217,Bracket Mounted,"Maintenence - Sign obscured, sleeves faded.",Obscured,High,,722053.1757,724547.0593
+-6.148731124,53.26231587,80 Km/h,50 Km/h,Standard,0,0,750mm,8,80,50,20151116,Bracket Mounted,"Maintenance - 50kmh sign dia. 600mm, 80kmh sign dia. 750mm, 80kmh sign rotated, sleeves faded, yield sign on same pole, minor damage to both faces.",Damaged Sign,Low,,723506.1217,725151.3062
+-6.217548549,53.30015008,50 Km/h,,Standard,1,1,600mm,8,50,0,20160106,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Sign edge 150mm over road, sign damaged and rotated, pole knocked, sleeves faded.",Damaged Sign,High,,718810.4429,729243.8993
+-6.193921499,53.28602642,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151119,Bracket Mounted,"Maintenance - 50kmh face damaged and rotated, sleeves faded, kerb offset 300mm.",Damaged Sign,Low,,720424.8943,727712.1088
+-6.238431145,53.26485057,50 Km/h,,Standard,1,0,300mm,8,50,0,20160111,,Mounting - Mounted on Tp. Maintenance - Sign face has minor damage.,Damaged Sign,Low,,717515.4453,725282.0725
+-6.188011844,53.27617339,50 Km/h,,Standard,1,1,600mm,8,50,0,20151203,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Sleeves and sign dirty, pole at an angle.",,Low,,720846.6965,726625.8797
+-6.209184312,53.28292042,50 Km/h,,Standard,1,0,300mm,8,50,0,20160113,Bracket Mounted,Maintenance - Fit sleeves.,,Low,,719415.9629,727340.9344
+-6.230669403,53.26521551,50 Km/h,,Standard,1,0,300mm,8,50,0,20151209,Bracket Mounted,"Maintenance - Speed sign height 2.1m, pole knocked.",Damaged Pole,High,,718032.1846,725335.4636
+-6.132874477,53.25102782,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20160108,Bracket Mounted,Maintenance - Sleeves faded.,,Low,,724596.6867,723922.9775
+-6.139590112,53.29644288,30 Km/h,,Standard,0,0,450mm,8,30,0,20160202,Bracket Mounted,Non TSM - Sign too big.,,,,724017.0437,728963.9337
+-6.170938192,53.25731172,50 Km/h,,Standard,1,1,600mm,8,50,0,20151217,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Height 2m, sign face damaged.",Damaged Sign,High,,722038.9834,724556.4284
+-6.174457941,53.29932763,50 Km/h,,Standard,1,1,600mm,8,50,0,20151201,Bracket Mounted,"Non TSM - Signs too big. Maintenance - Kerb offset 100mm, sleeves faded, sign damaged & rotated.",Damaged Sign,Low,,721684.7394,729224.9222
+-6.262306509,53.2688892,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20160111,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Kerb offset 250mm, sign face tilted.",,Low,,715911.9186,725692.41
+-6.20503735,53.22779842,50 Km/h,,Standard,1,0,300mm,8,50,0,20160107,Bracket Mounted,,,,,719846.4673,721215.2435
+-6.125212817,53.20986725,50 Km/h,,Standard,1,0,300mm,8,50,0,20151125,Bracket Mounted,"Maintenance - Sign damaged and rotated 45 degrees, sign and sleeves very dirty, kerb offset 300mm, pole slightly angled.",Damaged Sign,High,,725227.9831,719357.0922
+-6.214634742,53.25332732,50 Km/h,,Standard,1,0,300mm,8,50,0,20151209,,Mounting - Mounted on Lp.,,,,719134.7977,724039.432
+-6.170184722,53.26160288,50 Km/h,,Standard,1,0,300mm,8,50,0,20151217,,Mounting - Mounted on Ep. Maintenance - Sign face has minor damage.,Damaged Sign,Low,,722077.0295,725035.128
+-6.217181439,53.27059429,50 Km/h,,Standard,0,0,,8,50,0,20160201,Bracket Mounted,,,,,718916.9575,725956.2426
+-6.24358483,53.27239679,50 Km/h,,Standard,1,0,900mm,8,50,0,20160114,Bracket Mounted,Gateway sign,,,,717151.0367,726113.1778
+-6.25825251,53.26840546,50 Km/h,,Standard,1,1,600mm,8,50,0,20160111,Bracket Mounted,Non TSM - Sign too big. Maintenance - Sign has minor damage.,Damaged Sign,Low,,716183.6264,725645.1732
+-6.271888607,53.26858446,100 Km/h,,Standard,1,0,,8,100,0,20160201,Bracket Mounted,,,,,715273.6249,725643.0094
+-6.171729355,53.27205018,80 Km/h,50 Km/h,Standard,0,0,600mm,8,80,50,20151118,Bracket Mounted,"Maintenance - Sleeves faded, kerb offset 150mm",,Low,,721944.2543,726194.8075
+-6.22880497,53.26539138,50 Km/h,,Standard,1,0,450mm,8,50,0,20151209,Bracket Mounted,,,,,718156.0649,725358.1104
+-6.155397305,53.23635931,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20151127,Bracket Mounted,Non TSM - Signs too big. Maintenance - Sleeves faded.,,Low,,723135.9538,722252.0226
+-6.137062542,53.29292384,50 Km/h,,Standard,0,0,600mm,8,50,0,20151222,,"Maintenance - Sign face damaged, kerb offset 80mm.",Damaged Sign,Low,,724195.7268,728576.813
+-6.129018627,53.24021218,100 Km/h,,Standard,0,0,,8,100,0,20160129,Bracket Mounted,,,,,724885.4617,722726.421
+-6.189387007,53.28039786,50 Km/h,,Standard,0,0,600mm,8,50,0,20151119,Bracket Mounted,"Maintenance - Pole angled into cycle track, sleeves faded and missing, kerb offset 60mm, sign face has minor damage.",Damaged Pole,High,,720743.0827,727093.5515
+-6.180427871,53.28909008,50 Km/h,,Standard,1,1,750mm,8,50,0,20151204,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Kerb offset 325mm, fit sleeves, slightly rotated.",,Low,,721315.8503,728075.7848
+-6.185752057,53.30148337,50 Km/h,,Standard,1,1,600mm,8,50,0,20151201,Bracket Mounted,Non TSM - Signs too big. Maintenance - Sign rotated 90 degrees and not visible.,Obscured,High,,720925.891,729445.5842
+-6.255586396,53.27557184,50 Km/h,,Standard,1,0,600mm,8,50,0,20160113,,Maintenance - Slight damage & different size to sign on opposite side of road.,,,,716341.9928,726446.8182
+-6.214121007,53.31025218,50 Km/h,,Standard,1,0,450mm,8,50,0,20160111,Bracket Mounted,Maintenance - Kerb offset 250mm.,,Low,,719010.7879,730373.5299
+-6.138335594,53.26083034,50 Km/h,,Standard,1,0,300mm,8,50,0,20151222,,,,,,724203.8881,725004.0469
+-6.175746573,53.27438798,60 Km/h,,Standard,0,0,300mm,8,60,0,20151118,Bracket Mounted,"Maintenance - Sleeve missing, pole slightly angled.",Damaged Pole,Low,,721669.6952,726448.0528
+-6.144429019,53.25458787,80 Km/h,50 Km/h,Standard,0,0,600mm,8,80,50,20151116,Bracket Mounted,"Maintenance - 50kmh face has minor damage, both signs obscured.",Obscured,Low,,723815.426,724298.9733
+-6.162477524,53.27578614,50 Km/h,,Standard,1,0,300mm,8,50,0,20151204,,"Maintenance - Height 2m beside cycle track, sleeves faded.",,Low,,722550.5966,726626.2782
+-6.122592311,53.21285783,120 Km/h,,Standard,0,0,,8,120,0,20160201,Bracket Mounted,,,,,725394.2704,719694.3956
+-6.22767925,53.26283536,50 Km/h,,Standard,1,0,300mm,8,50,0,20151209,Bracket Mounted,"Maintenance - Sign damaged, kerb offset of speed sign 250mm.",Damaged Sign,Low,,718238.2064,725075.5994
+-6.195969568,53.29874953,50 Km/h,,Standard,1,0,300mm,8,50,0,20151201,Bracket Mounted,Maintenance - Sign and sleeves dirty.,,Low,,720252.6039,729124.1823
+-6.194568979,53.28401281,60 Km/h,,Standard,1,1,300mm,8,60,0,20151130,Bracket Mounted,Non TSM - Sign too small. Maintenence - Fit sleeves.,,Low,,720387.3867,727486.9927
+-6.244676531,53.27102128,50 Km/h,,Standard,0,0,750mm,8,50,0,20160201,,"Maintenance - Sleeves faded, rotate sign, damage to sign face.",Damaged Sign,Low,,717081.9867,725958.3545
+-6.237111847,53.28437521,50 Km/h,,Standard,1,0,300mm,8,50,0,20151210,Bracket Mounted,Maintenance - Rotated 60 degrees barely visible.,Obscured,High,,717549.862,727456.4846
+-6.198000806,53.29112924,60 Km/h,60 Km/h,Standard,1,0,600mm,8,60,60,20151130,Bracket Mounted,,,Low,,720138.6032,728272.9621
+-6.23346317,53.28217494,50 Km/h,,Standard,1,1,300mm,8,50,0,20151209,Bracket Mounted,Non TSM - Text style.,,,,717799.1868,727217.698
+-6.164698518,53.27789699,50 Km/h,,Standard,1,0,300mm,8,50,0,20151218,,Maintenance - Sign face has minor damage.,,,,722396.4538,726857.3151
+-6.136459137,53.24721249,60 Km/h,,Standard,0,0,600mm,8,60,0,20151125,Bracket Mounted,Wrong Sign - 60kmh sign at start of 80kmh zone.,Inappropriate,High,,724368.5656,723492.2642
+-6.148334688,53.26598746,50 Km/h,,Standard,1,0,300mm,8,50,0,20160106,,Mounting - Mounted on Lp. Maintenance - Sign face slightly dirty.,,Low,,723521.9839,725560.4732
+-6.11965395,53.218252,50 Km/h,,Standard,1,0,300mm,8,50,0,20151202,,"Mounting - Mounted on Lp. Maintenance - Minor damage to face, likely to become obstructed.",Damaged Sign,Low,,725574.7279,720299.6709
+-6.200636629,53.31102816,50 Km/h,,Standard,1,1,600mm,8,50,0,20151201,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Damaged face, sign off centre, damaged sleeves.",Damaged Sign,Low,,719907.1265,730482.4126
+-6.120902762,53.27960019,50 Km/h,,Standard,1,0,300mm,8,50,0,20151119,Bracket Mounted,"Maintenance - Sign face has minor damage, pole is at slight angle, sleeves faded, height 1.85m, kerb offset 130mm.",Damaged Sign,Low,,725311.9201,727122.7075
+-6.292335735,53.26234852,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20160111,Bracket Mounted,Non TSM - Sign too big. Maintenance - Road offset 100mm,,Low,,713926.3918,724916.4341
+-6.203456809,53.29473283,60 Km/h,,Standard,1,1,300mm,8,60,0,20151130,Bracket Mounted,"Non TSM - Sign too small. Maintenance - Sign damaged, fit sleeves.",Damaged Sign,Low,,719764.8059,728664.7236
+-6.188745903,53.2437211,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20151207,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Both sign faces have minor damage, sleeves faded, one face off centre on pole.",Damaged Sign,Low,,720889.239,723014.1478
+-6.223075794,53.27165645,80 Km/h,,Standard,0,1,900mm,8,80,0,20160115,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Not located at change in speed limit as per byelaws, fit sleeves.",Inappropriate,High,,718520.8919,726064.6239
+-6.114121084,53.23956306,30 Km/h,,Standard,0,0,600mm,8,30,0,20151125,Bracket Mounted,"Not in Bye laws. Maintenance - Fit sleeves, missing 50kmh sign on back, slightly rotated.",Inappropriate,High,,725881.6562,722680.329
+-6.135795436,53.29188297,30 Km/h,,Standard,0,0,600mm,8,30,0,20151222,,"Maintenance - Pole knocked, fit sleeves, kerb offset 220mm.",Damaged Pole,High,,724283.2136,728463.2143
+-6.11953734,53.21445985,50 Km/h,,Standard,1,0,300mm,8,50,0,20151202,Bracket Mounted,"Maintenance - Sign damaged and faded, height 1.65m.",Damaged Sign,Low,,725593.6084,719877.985
+-6.203653501,53.24747228,50 Km/h,50 Km/h,Standard,1,0,450mm,8,50,50,20151124,Cap Mounted,,,,,719883.8613,723406.3834
+-6.135073702,53.21312231,50 Km/h,,Standard,1,0,300mm,8,50,0,20151126,Bracket Mounted,Maintenance - Sleeves faded.,,Low,,724559.9396,719702.0106
+-6.154521595,53.24134251,120 Km/h,,Standard,0,0,900mm,8,120,0,20160201,Bracket Mounted,,,,,723180.0949,722807.934
+-6.171094653,53.28777242,50 Km/h,,Standard,1,1,750mm,8,50,0,20151204,Bracket Mounted,Non TSM - Sign too big. Maintenance - Fit sleeves.,,Low,,721941.814,727945.0743
+-6.207701942,53.30324489,60 Km/h,,Standard,1,1,300mm,8,60,0,20151201,Bracket Mounted,"Non TSM - Sign too small. Maintenance - Fit sleeves, height 2.1m beside cycle track.",,Low,,719458.0751,729604.6374
+-6.268722719,53.27865305,50 Km/h,,Standard,1,0,300mm,8,50,0,20160111,Bracket Mounted,"Maintenance - Sleeves faded, height 1.85m, possibly rotated, on same pole as stop sign.",Inappropriate,High,,715457.6492,726768.3203
+-6.183868481,53.30211184,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20151201,Bracket Mounted,"Non TSM - Signs too big. Maintenance - Both signs rotated and off centre, sleeve missing.",,Low,,721049.6482,729518.6957
+-6.131046145,53.28642486,50 Km/h,,Standard,1,0,300mm,8,50,0,20151119,Bracket Mounted,"Maintenance - Pole is at angle, kerb offset 200mm.",Damaged Pole,Low,,724615.6933,727864.2446
+-6.256726926,53.27434109,50 Km/h,,Standard,1,0,300mm,8,50,0,20151102,,,,,,716269.2732,726308.0332
+-6.199457531,53.29780934,50 Km/h,,Standard,1,0,300mm,8,50,0,20151201,Bracket Mounted,,,,,720022.7624,729013.7154
+-6.152336625,53.24053456,60 Km/h,,Standard,0,0,900mm,8,60,0,20160201,Bracket Mounted,Maintenance - Pole angled and obscured by motorway end sign.,Obscured,High,,723328.2439,722721.8121
+-6.115658671,53.23948915,30 Km/h,,Standard,0,0,600mm,8,30,0,20151125,Cap Mounted,"Not in Bye laws. Maintenance - Fit sleeves, missing 50kmh sign on back, on wrong side of road, rotated slightly.",Inappropriate,High,,725779.2501,722669.4008
+-6.203369652,53.29688802,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151130,Bracket Mounted,Maintenance - 60kmh sign obscured,Obscured,High,,719764.5856,728904.6485
+-6.134854393,53.26605118,50 Km/h,,Standard,0,0,600mm,8,50,0,20160108,Bracket Mounted,"Maintenance - Kerb offset 350mm, sign off centre on pole.",,Low,,724420.9604,725590.9439
+-6.292681765,53.26280095,50 Km/h,,Standard,1,1,600mm,8,50,0,20160111,Bracket Mounted,"Non TSM - County boundary sign. Maintenance - Not located at boundary, road offset 100mm, minor damage to sign.",Inappropriate,High,,713902.1061,724966.2191
+-6.178316085,53.28349267,50 Km/h,,Standard,1,0,300mm,8,50,0,20151203,Bracket Mounted,"Maintenance - Sign obscured, sleeves faded.",Obscured,High,,721472.5128,727456.6286
+-6.209812175,53.30323957,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151201,,"Maintenance - Pole in middle of path, 1.15m between pole and back of path, kerb offset 400mm, 50kmh face has minor damage.",Damaged Sign,Low,,719317.4544,729600.5187
+-6.137826785,53.19946012,50 Km/h,,Standard,1,1,600mm,8,50,0,20160115,Bracket Mounted,"Non TSM - County boundary sign. Maintenance - Pole knocked, sign is damaged, sign edge 200mm over road.",Damaged Sign,High,,724415.6511,718177.2517
+-6.223445008,53.27621655,50 Km/h,,Standard,1,0,300mm,8,50,0,20151210,Bracket Mounted,"Maintenance - Sign rotated barely visible, height 1.9m beside cycle track, sleeves faded.",Obscured,High,,718483.6551,726571.3511
+-6.095335342,53.27113948,50 Km/h,,Standard,0,0,300mm,8,50,0,20151120,Bracket Mounted,"Maintenance - Minor damage to sign face, pole at angle sign rotated, kerb offset 150mm, sleeves dirty.",Damaged Sign,Low,,727041.8543,726226.5593
+-6.296329894,53.26051755,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20160108,Bracket Mounted,"Non TSM - Signs too big for repeater. Maintenance - Signs dirty and rotated, fit sleeves, road offset 400mm, one sign slightly obscured by vegetation.",Obscured,High,,713664.8003,724706.3679
+-6.237161715,53.27190409,100 Km/h,,Standard,1,0,,8,100,0,20160201,Bracket Mounted,,,,,717580.7655,726068.9097
+-6.188758616,53.232505,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20151125,Bracket Mounted,"Non TSM - Signs too big. Maintenance - Minor damage to one face the other damaged, signs rotated and one face not visible, sleeves faded.",Damaged Sign,High,,720920.0034,721766.2784
+-6.140522841,53.29382978,50 Km/h,30 Km/h,Standard,0,1,600mm,8,50,30,20160104,,"Maintenance - Both signs damaged, fit sleeves, pole at an angle, signs rotated and barely visible, kerb offset 30mm.",Damaged Sign,High,,723962.4401,728671.5946
+-6.184927826,53.27876992,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151118,,"Maintenance - 60kmh face damaged, sleeves faded, pole at angle, 50kmh face has minor damage.",Damaged Sign,Low,,721045.0213,726919.9776
+-6.132241242,53.19945848,100 Km/h,,Standard,0,0,,8,100,0,20160129,Bracket Mounted,,,,,724788.8004,718186.7981
+-6.199750774,53.31048346,50 Km/h,,Standard,1,1,600mm,8,50,0,20151201,Bracket Mounted,Non TSM - Sign too big.,,,,719967.6806,730423.2984
+-6.212084779,53.27095868,50 Km/h,,Standard,0,0,,8,50,0,20160129,Bracket Mounted,,,,,719255.8677,726005.2753
+-6.17073511,53.29808791,50 Km/h,,Standard,1,1,600mm,8,50,0,20151201,Bracket Mounted,"Non TSM - Signs too big. Maintenance - Sign at angle, minor damage to face.",Damaged Sign,Low,,721936.399,729093.3443
+-6.202720137,53.29694052,50 Km/h,,Standard,1,0,300mm,8,50,0,20151201,Bracket Mounted,,,Low,,719807.7317,728911.5775
+-6.131703857,53.25119443,60 Km/h,50 Km/h,Standard,0,1,600mm,8,60,50,20160108,Bracket Mounted,"Non TSM - 50kmh sign too small. Maintenance - Both signs damaged, sleeves faded, kerb offset 200mm.",Inappropriate,High,,724674.312,723943.5548
+-6.158550052,53.266708,80 Km/h,50 Km/h,Standard,0,0,600mm,8,80,50,20151117,Bracket Mounted,Maintenance - sleeves are faded.,,Low,,722838.5326,725623.0313
+-6.167571986,53.26470725,50 Km/h,,Standard,1,0,300mm,8,50,0,20151217,,"Mounting - Mounted on Lp. Maintenance - Sign face has minor damage, likely to become obscured by tree.",Damaged Sign,Low,,722242.4676,725384.9703
+-6.230499436,53.27717583,50 Km/h,,Standard,1,0,300mm,8,50,0,20151209,Bracket Mounted,Maintenance - Sign face damaged and at angle.,Damaged Sign,Low,,718010.5745,726666.4043
+-6.241273915,53.27100033,50 Km/h,,Standard,0,1,1200mm,8,50,0,20160113,,"Non TSM - Sign too big. Maintenance - Fit sleeves, slight damage to sign edge.",Damaged Sign,Low,,717308.9821,725961.6027
+-6.116688568,53.23942059,30 Km/h,,Standard,0,0,600mm,8,30,0,20151124,Bracket Mounted,"Not in Bye laws. Maintenance - Missing 50kmh sign on back, fit sleeves, kerb offset 230mm.",Missing,High,,725710.7127,722659.9623
+-6.111238327,53.28545547,50 Km/h,,Standard,1,0,300mm,8,50,0,20151119,Bracket Mounted,"Maintenance - Minor damage to sign face, fit sleeves, kerb offset 230mm.",Damaged Sign,Low,,725939.129,727791.1232
+-6.200733165,53.31166053,50 Km/h,,Standard,1,1,600mm,8,50,0,20151202,Bracket Mounted,Non TSM - County boundary sign. Maintenance - Sign obscured.,Obscured,High,,719898.9219,730552.6054
+-6.215800294,53.21863109,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20160107,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Sleeves faded, both signs rotated, road offset 100mm.",,Low,,719153.3579,720177.3469
+-6.139159168,53.24785981,80 Km/h,,Standard,0,0,600mm,8,80,0,20151118,Bracket Mounted,"Maintenance - sleeves missing and dirty, kerb offset 150mm.",,Low,,724186.5148,723559.5883
+-6.12985625,53.24129385,80 Km/h,50 Km/h,Standard,0,0,600mm,8,80,50,20151116,Bracket Mounted,Maintenance - 50kmh face has minor damage.,Damaged Sign,Low,,724826.4092,722845.2989
+-6.254714406,53.27884096,50 Km/h,,Standard,1,0,600mm,8,50,0,20160113,,,,,,716391.2612,726811.9497
+-6.270010617,53.30322758,50 Km/h,,Standard,1,1,600mm,8,50,0,20160114,Bracket Mounted,Non TSM - County boundary sign.,,,,715305.5661,729500.3355
+-6.195316393,53.23750697,50 Km/h,,Standard,1,0,300mm,8,50,0,20151124,Bracket Mounted,Maintenance - Minor damage to sign.,Damaged Sign,Low,,720468.1952,722311.7043
+-6.12405342,53.23331293,50 Km/h,,Standard,1,0,300mm,8,50,0,20151217,Bracket Mounted,"Maintenance - Sign face has minor damage, fit sleeves, height 2.1m.",Damaged Sign,Low,,725236.9893,721967.5381
+-6.169573429,53.29628393,50 Km/h,,Standard,1,1,600mm,8,50,0,20151209,Bracket Mounted,"Non TSM - Sign too big. Maintenance -Sign face has minor damage, sleeves faded and missing, kerb offset 120mm.",Damaged Sign,Low,,722018.9701,728894.6245
+-6.265364535,53.29161201,50 Km/h,,Standard,1,1,450mm,8,50,0,20160114,Bracket Mounted,Non TSM - Estate traffic calming sign.,Damaged Sign,Low,,715646.5833,728215.5277
+-6.215933417,53.2710887,100 Km/h,,Standard,0,0,,8,100,0,20160129,Bracket Mounted,,,,,718998.8218,726013.3261
+-6.189051722,53.2760037,50 Km/h,,Standard,1,1,600mm,8,50,0,20151203,Bracket Mounted,Non TSM - Sign too big. Maintenance - Sleeves faded.,,Low,,720777.829,726605.2423
+-6.180888864,53.30213876,50 Km/h,,Standard,1,1,600mm,8,50,0,20151201,Bracket Mounted,"Non TSM - Signs too big. Maintenance - Kerb offset 100mm, sleeves faded, sign damaged.",Damaged Sign,Low,,721248.1517,729526.7435
+-6.125401681,53.20966198,50 Km/h,,Standard,0,1,750mm,8,50,0,20151125,Bracket Mounted,Non TSM - Sign too big.,,,,725215.9676,719333.9248
+-6.130471099,53.24235063,80 Km/h,,Standard,1,0,450mm,8,80,0,20151116,Bracket Mounted,Maintenance - sleeves faded.,,Low,,724782.2994,722961.797
+-6.255061198,53.27512018,50 Km/h,,Standard,1,0,600mm,8,50,0,20160113,,Maintenence - Corrosion on sign edge.,Damaged Sign,Low,,716378.2443,726397.4232
+-6.201854384,53.29289152,60 Km/h,50 Km/h,Standard,0,1,450mm,8,60,50,20151130,Bracket Mounted,"Non TSM - Signs too small. Maintenance -  50kmh sign rotated and not visible, 60kmh face has minor damaged.",Obscured,High,,719876.776,728462.554
+-6.192310158,53.29960011,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20151201,Bracket Mounted,"Non TSM - Signs too big. Maintenance - Pole knocked, fit sleeves.",Damaged Pole,High,,720494.1143,729224.9802
+-6.247491546,53.26950521,60 Km/h,,Standard,0,0,750mm,8,60,0,20160113,,"Wrong Sign - No 60kmh in Byelaws at this location. Maintenance - Sleeves faded, raise sign, text faded.",Inappropriate,High,,716898.375,725785.0738
+-6.198090456,53.27327768,50 Km/h,,Standard,1,1,600mm,8,50,0,20151203,,Non TSM - Sign too big. Mounting - Mounted on Lp.,,,,720182.7116,726286.7197
+-6.22290077,53.28270267,50 Km/h,,Standard,1,1,750mm,8,50,0,20151210,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Minor damage to sign face, fit sleeves.",Damaged Sign,Low,,718502.0023,727293.8754
+-6.211298279,53.26909036,50 Km/h,,Standard,1,1,600mm,8,50,0,20151217,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Kerb offset 350mm, fit sleeves.",,Low,,719313.5257,725798.7266
+-6.131118249,53.25436358,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151222,,"Maintenance - Pole knocked, sleeves faded, both signs damaged.",Damaged Pole,High,,724704.1681,724297.1575
+-6.17282465,53.27339478,60 Km/h,,Standard,1,1,300mm,8,60,0,20151118,Bracket Mounted,Non TSM - Sign too small.,,,,721867.3812,726342.5326
+-6.217944642,53.27186447,80 Km/h,,Standard,0,0,,8,80,0,20160129,Bracket Mounted,(Underpass),,,,718862.5314,726096.2884
+-6.169884603,53.27178721,60 Km/h,,Standard,0,0,600mm,8,60,0,20151118,Bracket Mounted,"Wrong Sign - 60kmh sign in 80kmh zone. Maintenance - sleeves faded, pole angled.",Inappropriate,High,,722068.0353,726168.6994
+-6.272036011,53.26856233,100 Km/h,,Standard,1,0,,8,100,0,20160201,Bracket Mounted,,,,,715263.8527,725640.3097
+-6.262440803,53.26967493,50 Km/h,,Standard,1,1,600mm,8,50,0,20160111,,"Non TSM - Sign too big. Maintenance - Sign slightly dirty, kerb offset 400mm.",,Low,,715900.836,725779.611
+-6.211436612,53.2598679,50 Km/h,,Standard,1,0,300mm,8,50,0,20160111,Bracket Mounted,"Maintenance - Height 1.8m, sign damaged and rotated, sleeves faded and missing.",Damaged Sign,Low,,719329.9762,724772.4439
+-6.145669474,53.24360805,60 Km/h,,Standard,1,0,600mm,8,60,0,20151123,Bracket Mounted,Maintenance - Fit sleeves.,,Low,,723764.3511,723075.272
+-6.1435884,53.25360961,80 Km/h,50 Km/h,Standard,0,0,600mm,8,80,50,20151116,Bracket Mounted,Maintenance - minor damage to both sign faces.,Damaged Sign,Low,,723874.3384,724191.5942
+-6.160248784,53.27121563,50 Km/h,,Standard,1,0,300mm,8,50,0,20151204,Bracket Mounted,"Maintenance - Height 1.92m beside cycle track, sign face damaged, sleeves faded.",Damaged Sign,Low,,722712.3154,726121.61
+-6.13804616,53.23476257,50 Km/h,,Standard,1,0,300mm,8,50,0,20151127,Bracket Mounted,"Maintenance - Minor damage to sign face, sleeves faded, slightly rotated.",Damaged Sign,Low,,724298.7363,722104.4002
+-6.120482326,53.23694746,30 Km/h,,Standard,0,0,600mm,8,30,0,20151125,Bracket Mounted,"Not in Bye laws. Maintenance - Sign rotated 180 degrees, sign damaged, fit sleeves, missing 50kmh sign on back, yield on same pole.",Inappropriate,High,,725464.7392,722378.1535
+-6.166425581,53.27084114,80 Km/h,50 Km/h,Standard,0,0,600mm,8,80,50,20151117,Bracket Mounted,"Maintenance - 50kmh face is damaged, sleeves faded, kerb offset 230mm, 80kmh face is dirty.",Damaged Sign,Low,,722301.429,726069.3582
+-6.14054499,53.29425955,50 Km/h,30 Km/h,Standard,0,1,600mm,8,50,30,20160104,,"Maintenance - Rotate signs, 50kmh sign damaged, fit sleeves, kerb offset 100mm.",Damaged Sign,High,,723959.7192,728719.3697
+-6.198996867,53.29822173,50 Km/h,,Standard,1,1,600mm,8,50,0,20151201,Bracket Mounted,"Non TSM - Signs too big. Maintenance -Sign face damaged, missing 50kmh sign on back, sign edge 30mm over road.",,Low,,720052.3103,729060.3703
+-6.145646815,53.28340699,50 Km/h,,Standard,1,0,300mm,8,50,0,20151218,Bracket Mounted,"Maintenance - Pole at slight angle, fit sleeves, kerb offset 250mm.",Damaged Pole,Low,,723650.9797,727503.129
+-6.184338552,53.30177964,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20151201,Bracket Mounted,"Non TSM - Signs too big. Maintenance - One face rotated, fit sleeves.",,Low,,721019.2592,729480.9399
+-6.273825796,53.28039977,50 Km/h,,Standard,1,1,600mm,8,50,0,20160111,Bracket Mounted,Non TSM - County boundary sign.,,,,715112.6636,726954.423
+-6.121209204,53.22142605,50 Km/h,,Standard,1,0,300mm,8,50,0,20151202,,Mounting - Mounted on Lp. Maintenance - Sign damaged.,Damaged Sign,Low,,725461.5966,720650.0648
+-6.135183611,53.21983655,50 Km/h,,Standard,1,0,300mm,8,50,0,20151126,Bracket Mounted,"Maintenance - Sign face has minor damage, sign rotated, sleeves faded.",Damaged Sign,Low,,724533.1208,720448.8024
+-6.133738327,53.23551761,50 Km/h,,Standard,1,1,300mm,8,50,0,20160111,Bracket Mounted,Non TSM - Village traffic calming sign.,,,,724584.0936,722195.8986
+-6.133854969,53.20937052,50 Km/h,,Standard,1,0,300mm,8,50,0,20151126,Bracket Mounted,"Maintenance - Sign face very dirty, height 1.9m.",,Low,,724652.223,719286.7335
+-6.220254006,53.22384768,50 Km/h,,Standard,1,0,300mm,8,50,0,20160107,,Maintenance - Sleeves faded.,,Low,,718841.5108,720750.3089
+-6.187558022,53.27963472,60 Km/h,,Standard,0,0,600mm,8,60,0,20151119,Bracket Mounted,"Maintenance - Kerb offset 150mm, sleeves faded, sign face rotated.",,Low,,720867.1929,727011.7392
+-6.180385456,53.29127462,50 Km/h,,Standard,1,0,300mm,8,50,0,20151204,Bracket Mounted,Mounting - Mounted on Speed Alert Sign pole. Maintenance - Fit sleeves.,,Low,,721312.488,728318.8994
+-6.120754978,53.22043017,50 Km/h,,Standard,1,0,300mm,8,50,0,20151202,,"Mounting - Mounted on Lp. Maintenance - Height 2m, minor damage to face.",Damaged Sign,Low,,725494.8374,720540.0662
+-6.168404659,53.23421535,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20151127,Bracket Mounted,"Non TSM - Sign too big. Maintenance - Pole at angle, sleeves faded, kerb offset 400mm.",Damaged Pole,Low,,722273.846,721991.1758
+-6.132434009,53.26694735,50 Km/h,,Standard,1,1,300mm,8,50,0,20151125,Bracket Mounted,Non TSM - Village traffic calming sign. Maintenance - Sign different to opposite.,,Low,,724579.7988,725694.862
+-6.200763792,53.29330259,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151130,Bracket Mounted,"Maintenance - Kerb offset 110mm, minor damage to both faces, 60kmh sign slightly rotated, sleeves faded.",Damaged Sign,Low,,719948.3239,728510.1185
+-6.172578627,53.27288367,60 Km/h,,Standard,0,0,600mm,8,60,0,20151118,Bracket Mounted,Maintenance - Pole knocked.,Damaged Pole,High,,721885.2427,726286.0883
+-6.228479904,53.27088652,50 Km/h,,Standard,1,0,300mm,8,50,0,20151209,Bracket Mounted,Maintenance - Sleeves slightly faded,,Low,,718162.5937,725970.0162
+-6.244099655,53.2706852,100 Km/h,,Standard,1,0,,8,100,0,20160201,Bracket Mounted,,,,,717121.3803,725921.9081
+-6.236999161,53.28455563,50 Km/h,,Standard,1,1,300mm,8,50,0,20151209,Bracket Mounted,Non TSM - Text style.,,,,717556.88,727476.7424
+-6.206735988,53.30268214,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151201,Bracket Mounted,"Maintenanace - Kerb offset 100mm, sleeves faded.",,Low,,719524.0225,729543.6433
+-6.209317717,53.3043508,60 Km/h,,Standard,1,0,600mm,8,60,0,20151201,Bracket Mounted,Maintenance - Sleeves faded.,,Low,,719347.3082,729724.9755
+-6.115629135,53.28036903,50 Km/h,,Standard,1,0,300mm,8,50,0,20151119,Bracket Mounted,"Maintenance - Sign face has minor damage and is slightly rotated, kerb offset 230mm.",Damaged Sign,Low,,725661.3122,727217.5051
+-6.201304235,53.31195719,50 Km/h,,Standard,1,1,600mm,8,50,0,20151201,,Possibly in Dublin City Council Area. Non TSM - Sign too big. Mounting - Mounted on LP. Maintenance - Sign rotated.,,Low,,719860.0395,730584.6522
+-6.131536567,53.22979428,80 Km/h,,Standard,0,0,,8,80,0,20160201,Bracket Mounted,,,,,724747.6994,721562.9939
+-6.192981131,53.28257396,60 Km/h,50 Km/h,Standard,0,0,600mm,8,60,50,20151119,Bracket Mounted,"Maintenance - Height 1.7m, kerb offset 200mm, Pole at slight angle, 50kmh face is rotated slightly, sleeves faded, 60kmh face is dirty.",Damaged Pole,Low,,720497.3039,727329.5884
+-6.22067846,53.24496169,50 Km/h,50 Km/h,Standard,1,1,600mm,8,50,50,20151126,Bracket Mounted,"Non TSM - Signs too big. Maintenance - Both signs rotated, road edge offset 300mm, sleeves faded.",,Low,,718754.7125,723098.6531
